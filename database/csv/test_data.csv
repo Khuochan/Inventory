@@ -1,0 +1,23 @@
+Ticket ID,Subject,Device,Terminal ID,Status,Created Time,Closed Time,Reported By,Downtime (Hours),Downtime (Mins),Month,Issue Type
+020323/11,ATM got torn note,AMKATM55,TAKTAK-A001,Closed,3/2/2023 15:47,3/2/2023 15:48,yean sreynich,Non-Down,Non-Down,2-Mar-23,Hardware
+020323/12,Camera error,AMKATM31,MEMMEM-A001,Closed,3/2/2023 15:56,3/2/2023 15:58,yean sreynich,Non-Down,Non-Down,2-Mar-23,Hardware
+030323/13,error picker three,AMKATM53,ASNTAN1-A001,Closed,3/3/2023 9:02,3/3/2023 12:00,Yean Sreynich,2.97,178,3-Mar-23,Hardware
+060323/15,Camera error,AMKATM28,PNPPDK-A001,Closed,3/6/2023 9:15,3/6/2023 10:05,Yean Sreynich,Non-Down,Non-Down,6-Mar-23,Hardware
+100323/25,error got a lot of reject,AMKATM55,TAKTAK-A001,Closed,3/10/2023 9:33,3/10/2023 9:50,Yean Sreynich,Non-Down,Non-Down,10-Mar-23,Hardware
+100323/26,error device disconnect and Black screen,AMKATM69,SKNSKN-A001,Closed,3/10/2023 9:35,3/10/2023 16:00,Yean Sreynich,6.42,385,10-Mar-23,Hardware
+120323/54,Can not deposit,AMKDC01,PPT Chbar Obpov,Closed,3/12/2023 21:04,3/13/2023 10:00,Yean Sreynich,12.93,776,12-Mar-23,Hardware
+140323/66,error slot 3,AMKATM53,ASNTAN1-A001,Closed,3/14/2023 11:20,3/14/2023 14:00,Yean Sreynich,Non-Down,Non-Down,14-Mar-23,Hardware
+140323/67,many reject notes on slot 3,AMKATM26,ASNTAN2-A001,Closed,3/14/2023 9:31,3/14/2023 12:00,Yean Sreynich,Non-Down,Non-Down,14-Mar-23,Hardware
+150323/76,Check combination Lock,AMKATM08,PNPPNP-A002,Closed,3/15/2023 10:00,3/15/2023 11:00,Yean Sreynich,Non-Down,Non-Down,15-Mar-23,Hardware
+160323/81,Torn note 100USD,AMKATM08,PNPPNP-A002,Closed,3/16/2023 8:46,3/16/2023 9:25,Yean Sreynich,Non-Down,Non-Down,16-Mar-23,Hardware
+200323/95,combination lock running not smooth,AMKATM44,OMCOMC-A001,Closed,3/20/2023 17:21,3/21/2023 16:12,Yean Sreynich,22.85,1371,20-Mar-23,Hardware
+220323/100,frequently got card jam,AMKATM70,PRHPRH-A001,Closed,3/22/2023 9:27,3/22/2023 16:45,Yean Sreynich,Non-Down,Non-Down,22-Mar-23,Hardware
+220323/101,safe door,AMKDC03,PTT Prek Phnov,Closed,3/22/2023 10:52,3/22/2023 10:56,Yean Sreynich,0.07,4,22-Mar-23,Hardware
+220323/102,error card reader,AMKATM43,PNPPNP-C001,Closed,3/22/2023 15:02,3/22/2023 16:08,Yean Sreynich,1.1,66,22-Mar-23,Hardware
+240323/109,Error Cassette slot 4,AMKATM41,KOKKOK-A001,Closed,3/24/2023 8:50,3/24/2023 9:30,Yean Sreynich,Non-Down,Non-Down,24-Mar-23,Hardware
+240323/110,Error Cassette slot 4,AMKATM26,ASNTAN2-A001,Closed,3/24/2023 9:00,3/24/2023 10:02,Yean Sreynich,Non-Down,Non-Down,24-Mar-23,Hardware
+240323/111,Error device not connected,AMKATM28,PNPPDK-A001,Closed,3/24/2023 8:47,3/24/2023 9:45,Yean Sreynich,0.97,58,24-Mar-23,Hardware
+270323/120,error can not deposit,AMKDC02,PPT Prey Key,Closed,3/27/2023 10:16,3/27/2023 10:30,Yean Sreynich,0.23,14,27-Mar-23,Hardware
+290323/125,Change safe door sensor,AMKDC03,PTT Prek Phnov,Closed,3/29/2023 9:39,3/29/2023 10:05,Yean Sreynich,Non-Down,Non-Down,29-Mar-23,Hardware
+290323/128,restore new image,AMKATM53,ASNTAN1-A001,Closed,3/29/2023 14:56,3/29/2023 17:40,Yean Sreynich,Non-Down,Non-Down,29-Mar-23,Hardware
+

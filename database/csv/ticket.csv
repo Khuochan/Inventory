@@ -1,0 +1,2031 @@
+﻿Docket No,ATM ID,Model,Alias ATM ID,ATM Type,Call Date with Time,Sub Call Type,Completion Date,ATM Down,Diagnosis,Action Taken,Issue Categories
+061022/2,AMKATM65,DN 100D,PUKPUK-A001,ATM,10/6/2022 14:36,Card Jammed,10/8/2022 10:15,Yes,Card jam in the transport,"User : Seth Date  : Oct  8 2022 11:27AM
+Action :  -Check device status normal and printer counter. -Shutdown ATM Machine - Remove card reader (lots of ant in card reader and out site).remove shutter carder , board, to clean ant from card reader and also clean roller of card reader. -Put all devices back to right position. -Power on ATM and check device is ok - Use cleaning card to clean card reader. -Tested many transactions to confirm is ok.no more card jam. Result: Now ,ATM is working as normal ;
+
+User : Chean Sovanarath Date  : Oct  8 2022 11:12AM
+Action : -Check device status normal and printer counter.
+-Shutdown ATM Machine 
+- Remove card reader (lots of ant in card reader and out site).remove shutter carder , board, to clean ant 
+from card reader and also clean roller of card reader.
+-Put all devices back to right position.
+-Power on ATM and check device is ok
+- Use cleaning card to clean card reader.
+-Tested many transactions to confirm is ok.no more card jam.
+Result: Now ,ATM is working as normal .;
+
+User : Seth Date  : Oct  8 2022  8:51AM
+Action : issue card reader frequently error feed transport;
+
+User : Seth Date  : Oct  8 2022  7:22AM
+Action : Error feed transport;
+
+User : Seth Date  : Oct  6 2022  4:12PM
+Action :  Contact branch to removed the card jam from card reader. - Checked all card transport path. - Reset card reader from TSOP, Successfully. - Branch staff tested a few card successfully. Inform Bank to keep monitor.;
+
+User : Khen Raksmey Date  : Oct  6 2022  4:09PM
+Action : - Contact branch to removed the card jam from card reader. 
+- Checked all card transport path. 
+- Reset card reader from TSOP, Successfully. 
+- Branch staff tested a few card successfully. 
+Inform Bank to keep monitor. 
+;
+
+User : Seth Date  : Oct  6 2022  2:40PM
+Action : Card jam in transport;
+
+",Card reader
+071022/3,AMKATM15,DN 100D,BMCBMC-A001,ATM,10/7/2022 10:10,Card Jammed,10/8/2022 10:15,No,Receipt jam,"User : Seth Date  : Oct 10 2022  2:12PM
+Action : -Check device status normal and printer counter. -Shutdown ATM Machine - Remove card reader (lots of ant in card reader and outsite).remove shutter carder , board, to clean ant from card reader and also clean roller of card reader. -Put all devices back to right position. -Power on ATM and check device is ok - Use cleaning card to clean card reader. -Tested many transactions to confirm is ok.no more card jam. Result: Now ,ATM is working as normal .;
+
+User : Andrew Ng  Date  : Oct 10 2022  2:04PM
+Action : -Check device status normal and printer counter.
+-Shutdown ATM Machine
+- Remove card reader (lots of ant in card reader and outsite).remove shutter carder , board, to clean ant
+from card reader and also clean roller of card reader.
+-Put all devices back to right position.
+-Power on ATM and check device is ok
+- Use cleaning card to clean card reader.
+-Tested many transactions to confirm is ok.no more card jam.
+Result: Now ,ATM is working as normal .;
+
+User : Chean Sovanarath Date  : Oct 10 2022 12:46PM
+Action : Check device status show error receipt printer.
+-Printer counter before fixing.
+-Shutdown ATM machine
+-Remove out reciept printer from ATM
+- Remove shutter of reciept, Cutter, clean roller .
+-Changed sensor of black mark from right to left position.
+-Put all devices back to right position.
+-Power on ATM Machine.
+-Tested reciept printer is working.testing many times print counter are working.
+-Bank and costumer tested transaction taken receipt are working.
+Result: Now Reciept Printer is ok.;
+
+User : Chean Sovanarath Date  : Oct 10 2022 12:18PM
+Action : -Check device status show error receipt printer.
+-Printer counter before fixing.
+-Shutdown ATM machine
+-Remove out reciept printer from ATM
+- Remove shutter of reciept, Cutter, clean roller .
+-Changed sensor of black mark from right to left position.
+-Put all devices back to right position.
+-Power on ATM Machine.
+-Tested reciept printer is working testing many times print counter are working.
+-Bank and costumer tested transaction taken receipt are working.
+Result: Now Reciept Printer is ok.;
+
+User : Chean Sovanarath Date  : Oct 10 2022 12:12PM
+Action : -Check device status show error receipt printer.
+-Printer counter before fixing.
+-Shutdown ATM machine
+-Remove out reciept printer from ATM
+- Remove shutter of reciept, Cutter, clean roller .
+-Changed sensor of black mark from right to left position.
+-Put all devices back to right position.
+-Power on ATM Machine.
+-Tested reciept printer is working.testing many times print counter are working.
+-Bank and costumer tested transaction taken receipt are working.
+Result: Now Reciept Printer of ATM is w;
+
+User : Khen Raksmey Date  : Oct  7 2022 10:35AM
+Action : Call Support but issue not resolved. Arrange Engineer to be on site support. ;
+
+User : Banktech Date  : Oct  7 2022 10:12AM
+Action : Receipt jam;
+
+",Card reader
+101022/4,AMKATM25,DN 100D,MKPMKP-A001,ATM,10/10/2022 8:37,Application Error,10/10/2022 13:20,Yes,Auto reboot at 02:00am,"User : Seth Date  : Oct 10 2022  4:14PM
+Action : maintenance and restore new image. -Backup all data, IP, computer name, bitemap, snmp service name. -Restore new image completed -Replace all data, IP, Computer name, bitemap, snmp service name. -Test all device ATM status are ok -Shutdown ATM and removed out and clean device(Card reader, reciept printer, screen, feed wheel, tag_away wheel, stripper wheel) and clean EPP, PC, dispenser, power supply, all sensors. -Put back device and power on ATM, Tested all device ATM status are ok - ATM is ok.;
+
+User : Deam1 Date  : Oct 10 2022  4:10PM
+Action : maintenance and restore new image. -Backup all data, IP, computer name, bitemap, snmp service name. -Restore new image completed -Replace all data, IP, Computer name, bitemap, snmp service name. -Test all device ATM status are ok -Shutdown ATM and removed out and clean device(Card reader, reciept printer, screen, feed wheel, tag_away wheel, stripper wheel) and clean EPP, PC, dispenser, power supply, all sensors. -Put back device and power on ATM, Tested all device ATM status are ok - ATM is ok.;
+
+User : Khen Raksmey Date  : Oct 10 2022  2:40PM
+Action : maintenance and restore new image.
+-Backup all data, IP, computer name, bitemap, snmp service name.
+-Restore new image completed
+-Replace all data, IP, Computer name, bitemap, snmp service name.
+-Test all device ATM status are ok
+-Shutdown ATM and removed out and clean device(Card reader, reciept printer, screen, feed wheel,
+tag_away wheel, stripper wheel) and clean EPP, PC, dispenser, power supply, all sensors.
+-Put back device and power on ATM, Tested all device ATM status are ok
+- ATM is ok.;
+
+User : Andrew Ng  Date  : Oct 10 2022  2:10PM
+Action : -Check device status show error receipt printer.
+-Printer counter before fixing.
+-Shutdown ATM machine
+-Remove out reciept printer from ATM
+- Remove shutter of reciept, Cutter, clean roller .
+-Changed sensor of black mark from right to left position.
+-Put all devices back to right position.
+-Power on ATM Machine.
+-Tested reciept printer is working.testing many times print counter are working.
+-Bank and costumer tested transaction taken receipt are working.
+Result: Now Reciept Printer of ATM is w;
+
+User : Andrew Ng  Date  : Oct 10 2022  2:08PM
+Action : -Check device status show error receipt printer.
+-Printer counter before fixing.
+-Shutdown ATM machine
+-Remove out reciept printer from ATM
+- Remove shutter of reciept, Cutter, clean roller .
+-Changed sensor of black mark from right to left position.
+-Put all devices back to right position.
+-Power on ATM Machine.
+-Tested reciept printer is working.testing many times print counter are working.
+-Bank and costumer tested transaction taken receipt are working.
+Result: Now Reciept Printer of ATM is w;
+
+User : Khen Raksmey Date  : Oct 10 2022  1:59PM
+Action : maintenance and restore new image.
+-Backup all data, IP, computer name, bitemap, snmp service name.
+-Restore new image completed
+-Replace all data, IP, Computer name, bitemap, snmp service name.
+-Test all device ATM status are ok
+-Shutdown ATM and removed out and clean device(Card reader, reciept printer, screen, feed wheel,
+tag_away wheel, stripper wheel) and clean EPP, PC, dispenser, power supply, all sensors.
+-Put back device and power on ATM, Tested all device ATM status are ok
+- ATM is ok.;
+
+User : Seth Date  : Oct 10 2022  8:40AM
+Action : Auto reboot at 02:00am;
+
+",Software
+111022/6,AMKATM49,DN 100D,KTHKTH-A001,ATM,10/11/2022 9:28,PC Error,10/11/2022 10:40,No,LCD screen issue,"User : Seth Date  : Oct 11 2022 11:36AM
+Action : -Check all device . -Print counter before checking screen and touch screen. -Shutdown ATM Machine -Remove out LED screen. - clean touch screen and LED Screen. -put LED screen back -Power on ATM Machine -Check device and test touch screen is ok. Result : Now ATM is working as normal;
+
+User : Chean Sovanarath Date  : Oct 11 2022 11:34AM
+Action : -Check all device .
+-Print counter before checking screen and touch screen.
+-Shutdown ATM Machine
+-Remove out LED screen.
+- clean touch screen and LED Screen.
+-put LED screen back 
+-Power on ATM Machine
+-Check device and test touch screen is ok.
+Result : Now ATM is working as normal;
+
+User : Khen Raksmey Date  : Oct 11 2022  9:48AM
+Action : On-Site Support (Fixing) TID: 102622;
+
+User : Seth Date  : Oct 11 2022  9:30AM
+Action : LCD screen issue;
+
+",Other
+111022/7,AMKATM08,DN 100D,PNPPNP-A002,ATM,10/11/2022 14:07,Feed Wheel Spoil,10/11/2022 15:30,Yes,Unable to open safe door,"User : Seth Date  : Oct 11 2022  4:08PM
+Action :  - Trying to open safedoor many times with guessing number. Successfully open safedoor. - Reset safedoor. Branch change new code successfully open/close. - Safedoor confirm open/close with new code successfully.;
+
+User : Touch Jack Date  : Oct 11 2022  4:04PM
+Action : - Trying to open safedoor many times with guessing number. Successfully open safedoor. 
+- Reset safedoor. Branch change new code successfully open/close.
+- Safedoor confirm open/close with new code successfully.;
+
+User : Banktech Date  : Oct 11 2022  2:10PM
+Action : Unable to open safe door;
+
+",Dispenser
+111022/8,AMKATM14,DN 100D,PNPPNP-A001,ATM,10/11/2022 14:37,Application Error,10/11/2022 15:00,No,receipt error,"User : Seth Date  : Oct 11 2022  4:31PM
+Action : -Check Receipt printer error -Shutdown ATM -Checked and fixed receipt printer by clean sensor done. -Check receipt printer are sticky. -Reinstall receipt printer into the right position. -Power on and check receipt printer are ok -Now ATM is working as normal;
+
+User : Touch Jack Date  : Oct 11 2022  4:28PM
+Action : -Check Receipt printer error
+-Shutdown ATM
+-Checked and fixed receipt printer by clean sensor done.
+-Check receipt printer are sticky.
+-Reinstall receipt printer into the right position.
+-Power on and check receipt printer are ok
+-Now ATM is working as normal;
+
+User : Touch Jack Date  : Oct 11 2022  4:28PM
+Action : -Check Receipt printer error
+-Shutdown ATM
+-Checked and fixed receipt printer by clean sensor done.
+-Check receipt printer are sticky.
+-Reinstall receipt printer into the right position.
+-Power on and check receipt printer are ok
+-Now ATM is working as normal;
+
+User : Touch Jack Date  : Oct 11 2022  4:28PM
+Action : -Check Receipt printer error
+-Shutdown ATM
+-Checked and fixed receipt printer by clean sensor done.
+-Check receipt printer are sticky.
+-Reinstall receipt printer into the right position.
+-Power on and check receipt printer are ok
+-Now ATM is working as normal;
+
+User : Seth Date  : Oct 11 2022  2:40PM
+Action : receipt error;
+
+",Software
+141022/9,AMKATM48,DN 100D,KCHKCH-A001,ATM,10/14/2022 9:03,Card Reader Error,10/14/2022 9:40,No,card reader error Anti-Fishing detected,"User : Seth Date  : Oct 14 2022  9:56AM
+Action : -call to branch and support removed card jam in card reader -reset card reader and test is ok -restart ATM and test transaction is working normal.;
+
+User : Nao Bunseang Date  : Oct 14 2022  9:51AM
+Action : -call to branch and support removed card 
+  jam in card reader 
+-reset card reader and test is ok
+-restart ATM and test transaction is working 
+ normal.;
+
+User : Khen Raksmey Date  : Oct 14 2022  9:37AM
+Action : Noa Bunseang supported customer by Phone call. ;
+
+User : Seth Date  : Oct 14 2022  9:04AM
+Action : card jam;
+
+",Card reader
+181022/11,AMKATM40,DN 100D,TAKATS-A001,ATM,10/18/2022 9:02,EPP Error,10/18/2022 9:45,Yes,Switch back the EPP,"User : Seth Date  : Oct 18 2022 10:31AM
+Action : -Checked and tested devices are Ok. -Shutdown machine ATM and removed out EPP from ATM (S/N: INTASA1C20002750) -Install back old EPP to ATM (S//N: INTASA1C20002568) -Power ON ATM, checked and tested devices are ok. -Load master key on ATM completed. -Customer perform transaction. Completed. -Now ATM has been replaced EPP
+;
+
+User : Deam3 Date  : Oct 18 2022 10:24AM
+Action : -Checked and tested devices are Ok.
+-Shutdown machine ATM and removed out EPP from ATM (S/N: INTASA1C20002750)
+-Install back old EPP to ATM (S//N: INTASA1C20002568)
+-Power ON ATM, checked and tested devices are ok.
+-Load master key on ATM completed.
+-Customer perform transaction. Completed.
+-Now ATM has been replaced EPP;
+
+User : Seth Date  : Oct 18 2022  9:06AM
+Action : Error EPP;
+
+",EPP
+201022/12,AMKATM26,DN 100D,ASNTAN2-A001,ATM,10/20/2022 8:36,Stacker Error,10/20/2022 11:16,No,Error Cassette 4,"User : Seth Date  : Oct 20 2022 11:27AM
+Action : -Check and test all device ATM status error slot 4. -Shutdown ATM and check dispenser slot cassette 4 (Broken feed wheel 1 unit and Broken tag_away 1unit) -Change new feed wheel and change new tag_away done. -Power on ATM and tested all device ATM status are ok. -Bank loaded cash and tested transaction many time completed -Now ATM working as normal;
+
+User : Khen Raksmey Date  : Oct 20 2022 11:25AM
+Action : -Check and test all device ATM status error slot 4.
+-Shutdown ATM and check dispenser slot cassette 4 (Broken feed wheel 1 unit and Broken tag_away 1unit)
+-Change new feed wheel and change new tag_away done.
+-Power on ATM and tested all device ATM status are ok.
+-Bank loaded cash and tested transaction many time completed
+-Now ATM working as normal;
+
+User : Banktech Date  : Oct 20 2022  8:40AM
+Action : Error cassette 4;
+
+",FIL
+251022/16,AMKATM05,DN 100D,BMCPOP-A001,ATM,10/25/2022 10:21,Cash Rejected and Torn,10/26/2022 10:16,No,Torn Note,"User : Seth Date  : Oct 26 2022 10:48AM
+Action :  -Check and test all devices ATM -Check hardware dispenser and check all slot cassettes (slot 1, slot 3, slot 4 and take_away slot 4 one unit, slot 3 one unit, stripper wheel slot 4 one unit, slot 3 one unit are spoil). -Shutdown ATM and removed out feed wheel and take_away, stripper wheel. -Replace new feed wheel and take_away, stripper wheel. Power on ATM and tested all devices ATM status are ok. -Bank loaded cash and tested transaction many time successfully. -Now ATM working.;
+
+User : Khen Raksmey Date  : Oct 26 2022 10:39AM
+Action : -Check and test all devices ATM
+-Check hardware dispenser and check all slot cassettes (slot 1, slot 3, slot 4 and take_away slot 4 one unit,
+slot 3 one unit, stripper wheel slot 4 one unit, slot 3 one unit are spoil).
+-Shutdown ATM and removed out feed wheel and take_away, stripper wheel.
+-Replace new feed wheel and take_away, stripper wheel.
+Power on ATM and tested all devices ATM status are ok.
+-Bank loaded cash and tested transaction many time successfully.
+-Now ATM working. ;
+
+User : Khen Raksmey Date  : Oct 25 2022 10:24AM
+Action : Assign Engineer to be onsite to fix issue on torn note issue. 
+Assign to Engineer Name: Touch Jack;
+
+User : Parinha Date  : Oct 25 2022 10:22AM
+Action : Torn Note;
+
+",Dispenser
+271022/18,AMKATM75,DN 100D,STRSTR-A001,ATM,10/27/2022 15:11,Card Jammed,10/27/2022 15:45,No,Card reader frequently jam card,"User : Chhom Vannak Date  : Oct 27 2022  5:38PM
+Action : -Check devices ok but do transaction failure
+-Power off ATM , Removed out card reader and Cleaned shutter all roller board and belt
+-put back card reader to ATM 
+-power on ATM, Checked and test devices ok
+-Bank do transaction many card and many time successful
+-Now ATM working normal.
+;
+
+User : Chhom Vannak Date  : Oct 27 2022  5:31PM
+Action : -Check devices ok but do transaction failure
+-Power off ATM , Removed out card reader and Cleaned shutter all roller board and belt
+-put back card reader to ATM 
+-power on ATM, Checked and test devices ok
+-Bank do transaction many card and many time successful
+-Now ATM working normal.
+;
+
+User : Seth Date  : Oct 27 2022  5:15PM
+Action : -Check devices ok but do transaction failure
+-Power off ATM , Removed out card reader and Cleaned shutter all roller board and belt
+-put back card reader to ATM 
+-power on ATM, Checked and test devices ok
+-Bank do transaction many card and many time successful
+-Now ATM working normal.;
+
+User : Seth Date  : Oct 27 2022  3:14PM
+Action : Card reader frequently jam card;
+
+",Card reader
+041122/4,AMKDC01,DC365,PPT Chbar Obpov,DC365,11/4/2022 13:16,Connection Error,11/4/2022 15:00,No,connection error,"User : Seth Date  : Nov 11 2022  2:30PM
+Action : AMK checking their network;
+
+",Other
+051122/5,AMKATM26,DN 100D,ASNTAN2-A001,ATM,11/5/2022 8:17,Cash Jam,11/5/2022 11:28,No,Cash jam,"User : Parinha Date  : Nov  5 2022 11:31AM
+Action : - print counter and checked devices ok - power off atm - replace new picker slot 4 (50k) and feed wheel 1unit - power on atm, checked and tested devices ok -customer tested transaction successful -now atm working normal Picker old SN: IP69205196 Picker new SN: IP69202507
+;
+
+User : Chean Sovanarath Date  : Nov  5 2022 11:23AM
+Action : - print counter and checked devices ok
+- power off atm
+- replace new picker slot 4 (50k) and feed wheel 1unit
+- power on atm, checked and tested devices ok
+-customer tested transaction successful
+-now atm working normal
+Picker old SN: IP69205196
+Picker new SN: IP69202507;
+
+User : Parinha Date  : Nov  5 2022  8:27AM
+Action : Cash jam;
+
+",Dispenser
+111122/9,AMKATM29,DN 200V,PNPPDK-C001,CRM,11/11/2022 8:56,Camera Error,11/11/2022 10:00,No,Error Camera cashslot,"User : Seth Date  : Nov 11 2022 10:22AM
+Action : -Checked and all devices CRM error cash slot camera(camera show black screen) -Checked camera and test still error -Power off CRM and removed out old camera -Change new camera cashslot Old SN:WDBUC051575 New SN:WDBTL180064 -Power On CRM, checked and tested all devices ok -Bank checked confirm ok -Now CRM working normal.;
+
+User : Chean Sovanarath Date  : Nov 11 2022 10:20AM
+Action : -Checked and all devices CRM error cash slot camera(camera show black screen)
+-Checked camera and test still error 
+-Power off CRM and removed out old camera
+-Change new camera cashslot 
+Old SN:WDBUC051575
+New SN:WDBTL180064
+-Power On CRM, checked and tested all devices ok
+-Bank checked confirm ok 
+-Now CRM working normal.;
+
+User : Seth Date  : Nov 11 2022  8:58AM
+Action : error camera cash slot;
+
+",Camera
+141122/10,AMKDC03,DC365,PTT Prek Phnov,DC365,11/14/2022 15:18,Cash Jam,11/14/2022 17:50,Yes,Depositor envelop 300pcs,"User : Seth Date  : Nov 15 2022  8:31AM
+Action : _scan admin for open deposit slot
+_take the envelop out then depositor do transaction again
+-now machine work as normal.;
+
+User : Seth Date  : Nov 15 2022  8:31AM
+Action : _scan admin for open deposit slot
+_take the envelop out then depositor do transaction again
+-now machine work as normal.;
+
+",Dispenser
+161122/11,AMKATM41,DN 100D,KOKKOK-A001,ATM,11/16/2022 14:48,Cash Rejected and Torn,11/16/2022 16:31,No,ATM got torn notes,"User : Seth Date  : Nov 16 2022  6:53PM
+Action : -Checked and tested devices are ok. 
+-Shutdown machine ATM .
+-Changed Feed wheel , triple wheel and take away on slot 1 and slot 2.done -Adjust backward picker on slot one and two abit. completed . 
+-Power on ATM ,checked and tested devices are ok. 
+-Bank load cash and perform tested transaction many time no torn note more. 
+-Now ATM working as normal;
+
+User : Chean Sovanarath Date  : Nov 16 2022  6:28PM
+Action : -Checked and tested devices are ok.
+-Shutdown machine ATM .
+-Changed Feed wheel , triple wheel and take away on slot 1 and slot 2.done -Adjust backward picker on slot one and two abit .completed .
+-Power on ATM ,checked and tested devices are ok.
+-Bank loadcash and perform tested transaction many time no torn note more. -Now ATM working as normal;
+
+User : Seth Date  : Nov 16 2022  2:50PM
+Action : ATM got torn notes;
+
+",Dispenser
+281122/23,AMKATM64,DN 200V,PNPTKK-C001,CRM,11/28/2022 9:40,Application Error,11/28/2022 15:25,Yes,machine can not start application,"User : Seth Date  : Nov 28 2022  3:53PM
+Action : _Checked CRM seen can not start application.
+_Shutdown CRM , try to unpluing USB HDD and test but still not working.
+_Changed new HDD (S/N:20515U800517)
+Old HDD (S/N :2L07292NJQHY) done .
+_Prepare restore image completed.
+_ Put back IP configuration and computer name to CRM completed.
+_Configuration on CRM at TSOP done.
+_Now CRM is working as normal.;
+
+User : Seth Date  : Nov 28 2022  3:53PM
+Action : _Checked CRM seen can not start application.
+_Shutdown CRM , try to unpluing USB HDD and test but still not working.
+_Changed new HDD (S/N:20515U800517)
+Old HDD (S/N :2L07292NJQHY) done .
+_Prepare restore image completed.
+_ Put back IP configuration and computer name to CRM completed.
+_Configuration on CRM at TSOP done.
+_Now CRM is working as normal.;
+
+User : Seth Date  : Nov 28 2022  9:42AM
+Action : machine can not start application;
+
+",Software
+291122/28,AMKATM32,DN 100D,KSPKSP-A001,ATM,11/29/2022 8:37,Cash Rejected and Torn,11/29/2022 10:15,No,Reject a lot of note 50k,"User : Seth Date  : Nov 29 2022 10:56AM
+Action : -Print counter, checked all devices ok -Power off ATM, check picker slot 4 50K (Feed wheel , Stripper wheel is spoil) -Change new feed wheel, Stripper wheel Picker slot 4 -Power on ATM, checked and test devices ok -Bank load cash and do transaction successful -Now ATM working as normal.;
+
+User : Chhom Vannak Date  : Nov 29 2022 10:43AM
+Action : -Print counter, checked all devices ok
+-Power off ATM, check picker slot 4 50K (Feed wheel , Stripper wheel is spoil)
+-Change new feed wheel, Stripper wheel Picker slot 4 
+-Power on ATM, checked and test devices ok 
+-Bank load cash and do transaction successful
+-Now ATM working as normal.;
+
+User : Seth Date  : Nov 29 2022  8:38AM
+Action : Reject a lot of note 50K;
+
+",Dispenser
+301122/30,AMKATM20,DN 100D,KHHKHH-A001,ATM,11/30/2022 10:43,Cash Rejected and Torn,11/30/2022 17:10,No,ATM got torn notes,"User : Seth Date  : Dec  1 2022  8:14AM
+Action : -Check and test all device ATM status are ok. But dispenser cassette slot 3 Error torn notes. -Shutdown ATM and removed out dispenser, Check hardware dispenser and picker then By adjust backside picker tray on slot 100$. -Clean all device and all sensors. 
+-Power on ATM and tested all device ATM status are ok. 
+-Bank loaded cash and tested many transaction successfully. 
+-Now ATM working as normal.;
+
+User : Chean Sovanarath Date  : Dec  1 2022  8:07AM
+Action : -Check and test all device ATM status are ok. But dispenser cassette slot 3 Error torn notes.
+-Shutdown ATM and removed out dispenser, Check hardware dispenser and picker then By adjust backside 
+picker tray on slot 100$.
+-Clean all device and all sensors.
+-Power on ATM and tested all device ATM status are ok.
+-Bank loaded cash and tested many transaction successfully.
+-Now ATM working as normal.;
+
+User : Seth Date  : Nov 30 2022 10:47AM
+Action : ATM got torn notes;
+
+",Dispenser
+061222/5,AMKATM20,DN 100D,KHHKHH-A001,ATM,12/6/2022 8:24,Unable to open safe door,12/6/2022 14:00,No,Combination lock unable to change password,"User : Seth Date  : Dec  6 2022  3:40PM
+Action :  ;
+
+User : Khen Raksmey Date  : Dec  6 2022  3:37PM
+Action : _Try to unlock combination many time but still unable to change password.
+_Changed only combination luck opener completed.
+_Try and tested with reset password many times completed.
+_Branch try to test set many times as well.
+_ Bank loadcash and tested perform transaction completed.
+_Now ATM is working as normal.;
+
+User : Seth Date  : Dec  6 2022  8:28AM
+Action : Combination lock unable to change password;
+
+",Door Issue
+061222/7,AMKATM01,DN 100D,ASNVSR-A001,ATM,12/6/2022 9:08,Camera Error,12/6/2022 15:30,No,Camera error,"User : Seth Date  : Dec  6 2022  4:31PM
+Action :  ;
+
+User : SOY Date  : Dec  6 2022  4:30PM
+Action : testing complete;
+
+User : SOY Date  : Dec  6 2022  9:12AM
+Action : testing;
+
+User : Deam1 Date  : Dec  6 2022  9:10AM
+Action : Testing;
+
+User : Seth Date  : Dec  6 2022  9:09AM
+Action : Testing contact and phone number ;
+
+",Camera
+121222/18,AMKATM08,DN 100D,PNPPNP-A002,ATM,12/12/2022 9:08,Cash Rejected and Torn,12/12/2022 10:45,No,ATM got Torn notes,"User : Seth Date  : Dec 12 2022 11:50AM
+Action : _Checked and tested device are ok.
+_Shutdow machine ATM.
+_Changeed feel weel and take away on slot 2
+_Power on ATM
+_Checked and tested device is ok.
+_Bank perform test transaction many time no tron note more.
+_Now ATM working as normal.;
+
+User : Khen Raksmey Date  : Dec 12 2022  9:20AM
+Action : Assigned engineer;
+
+User : Seth Date  : Dec 12 2022  9:15AM
+Action : ATM got torn note;
+
+",Dispenser
+281222/19,AMKATM74,DN 100D,SRPSRP-A001,ATM,12/28/2022 10:17,Camera Issue,12/28/2022 17:00,No,Camera cash slot capture not see the cash,"User : Botin Date  : Dec 28 2022  6:24PM
+Action : Check and test camera status camera cash slot capture not see the cash.
+_Shutdown ATM and removed out camera cash slot. adjust the camera bracket holder to frontward direct to cash present.
+_Put back camera and power on ATM.
+_Tested cash slot camera and tested many transaction camera successfully.
+_Now ATM working as normal;
+
+User : Parinha Date  : Dec 28 2022 10:23AM
+Action : Camera cash slot capture not see the cash;
+
+",Camera
+020123/1,AMKATM43,DN 200V,PNPPNP-C001,CRM,1/2/2023 8:57,Receipt jam,1/2/2023 10:00,No,Receipt printer error,"User : Seth Date  : Jan  2 2023 10:40AM
+Action :  ;
+
+User : Than Rothana Date  : Jan  2 2023 10:18AM
+Action : -Checked on receipt printer found paper jam 
+ -take out paper of receipt printer completed
+ -try tested printer receipt printer many time saw receipt working not smooth.
+-Power off CRM , replace new receipt printer (S/N 97JCN29281) old receipt printer (S/N 97JCM14417) successfully .
+-Power on CRM ,checked and tested printer many time no jam anymore .
+-now CRM is working as normal;
+
+User : Seth Date  : Jan  2 2023  9:01AM
+Action : Receipt printer error;
+
+",Recipt printer
+030123/2,AMKATM02,DN 200V,PNPCAP-C001,CRM,1/3/2023 8:55,Cash Rejected and Torn,1/3/2023 10:25,No,CRM got torn 100$,"User : Seth Date  : Jan  3 2023 10:55AM
+Action :  ;
+
+User : Chean Sovanarath Date  : Jan  3 2023 10:52AM
+Action : _Chceked and tested devices are ok.
+_Shutdown machine CRM and removed out CHT .
+_Sendding CHT completed .
+_Checked on cassettes 100$ found torn note in cassette .
+_ checked and clean all sensor in cassette completed.
+_ Bank return cash and test transaction many time not seen torn note anymore.
+_Now CRM is working as normal;
+
+User : Chean Sovanarath Date  : Jan  3 2023 10:23AM
+Action : assign;
+
+User : Deam1 Date  : Jan  3 2023  9:14AM
+Action : assign;
+
+User : Seth Date  : Jan  3 2023  8:59AM
+Action : CRM got torn 100$;
+
+",Dispenser
+050123/3,AMKATM71,DN 100D,SRPNMK-A001,ATM,1/5/2023 10:41,FIL Error,1/5/2023 15:00,No,Error FIL,"User : Seth Date  : Jan  5 2023  8:15PM
+Action : _Checked devices in machine seen temperature hot .
+_Shutdown machine and replace new FIL 
+S/N 59M0179291 completed.
+_Old FIL (S/N 59L0179291)
+_ Power on ATM try to tested shutdown and restart machine many time no seen error .
+_Bank perform tested transaction completed.
+_Now ATM is working as normal.
+;
+
+User : Seth Date  : Jan  5 2023  8:15PM
+Action : _Checked devices in machine seen temperature hot .
+_Shutdown machine and replace new FIL 
+S/N 59M0179291 completed.
+_Old FIL (S/N 59L0179291)
+_ Power on ATM try to tested shutdown and restart machine many time no seen error .
+_Bank perform tested transaction completed.
+_Now ATM is working as normal.
+;
+
+User : Seth Date  : Jan  5 2023 10:44AM
+Action : Error FIL;
+
+",FIL
+100123/6,AMKATM31,DN 100D,MEMMEM-A001,ATM,1/10/2023 8:34,Cash Rejected and Torn,1/10/2023 12:10,No,ATM got torn note,"User : Seth Date  : Jan 10 2023  2:13PM
+Action :  ;
+
+User : Chhom Vannak Date  : Jan 10 2023  2:05PM
+Action : - Print counter, Checked all devices ok
+- Power off ATM
+- Check Picker slot (100$) feed wheel, stripper wheel, take away are ok 
+- adjust size cassette 100$ 
+- Power On ATM, Check and test all devices Ok
+- Bank load cash and do many transaction successfully
+- Now ATM working as normal.;
+
+User : Chean Sovanarath Date  : Jan 10 2023  8:54AM
+Action : Assign ;
+
+User : Seth Date  : Jan 10 2023  8:37AM
+Action : ATM got torn note;
+
+",Dispenser
+160123/8,AMKATM33,DN 200V,PNPBNC-C001,CRM,1/16/2023 13:14,Connection Error,1/16/2023 15:30,Yes,Banknote reader is not connected,"User : Parinha Date  : Jan 16 2023  3:38PM
+Action : Checked all devices in tsop found error Hardware error Bank note reader - Shutdown CRM and removed BVM board belong AMK out - Replace BVM board belong deam - Power on CRM and checked all devices ok - Now CRM working normal. Note: new board SN: 018129 Old board SN: 021313
+;
+
+User : Chhom Vannak Date  : Jan 16 2023  3:30PM
+Action : - Checked all devices in tsop found error Hardware error Bank note reader
+- Shutdown CRM and removed BVM board belong AMK out
+- Replace BVM board belong deam 
+- Power on CRM and checked all devices ok
+- Now CRM working normal.
+Note: new board SN: 018129
+Old board SN: 021313
+;
+
+User : Chhom Vannak Date  : Jan 16 2023  3:28PM
+Action : - Checked all devices in tsop found error Hardware error Bank note reader
+- Shutdown CRM and removed BVM board belong AMK out
+- Replace BVM board belong deam 
+- Power on CRM and checked all devices ok
+- Now CRM working normal.
+Note: new board SN: 018129
+Old board SN: 021313
+;
+
+User : Chhom Vannak Date  : Jan 16 2023  3:28PM
+Action : - Checked all devices in tsop found error Hardware error Bank note reader
+- Shutdown CRM and removed BVM board belong AMK out
+- Replace BVM board belong deam 
+- Power on CRM and checked all devices ok
+- Now CRM working normal.
+Note: new board SN: 018129
+Old board SN: 021313
+;
+
+User : Chhom Vannak Date  : Jan 16 2023  3:28PM
+Action : - Checked all devices in tsop found error Hardware error Bank note reader
+- Shutdown CRM and removed BVM board belong AMK out
+- Replace BVM board belong deam 
+- Power on CRM and checked all devices ok
+- Now CRM working normal.
+Note: new board SN: 018129
+Old board SN: 021313
+;
+
+User : Parinha Date  : Jan 16 2023  1:32PM
+Action : Banknote reader is not connected.;
+
+",Other
+160123/9,CCM1280015,DC365,CCM1280015,DC365,1/16/2023 15:56,Error amount,1/30/2023 8:00,No,Error amount between terminal and DCT,"User : Seth Date  : Jan 31 2023  8:45AM
+Action : Jack provide the code for solve duplicate transaction;
+
+User : Seth Date  : Jan 17 2023  2:08PM
+Action : Error amount between terminal and DCT;
+
+",Other
+170123/10,AMKATM69,DN 100D,SKNSKN-A001,ATM,1/17/2023 8:20,Cash Rejected and Torn,1/17/2023 11:34,No,Torn note 100$,"User : Seth Date  : Jan 17 2023  1:56PM
+Action :  ;
+
+User : Chean Sovanarath Date  : Jan 17 2023 12:04PM
+Action : -print counter, checked all devices ok
+-power off ATM
+-Check picker slot2( 100$ ) feed wheel stripper wheel take away Ok
+-adjust size cassette 100$
+-power on ATM checked and tested all devices Ok
+-Bank do many transaction successfully
+-Now ATM working as normal
+;
+
+User : Seth Date  : Jan 17 2023  8:25AM
+Action : Torn note 100$;
+
+",Dispenser
+170123/11,AMKATM63,DN 100D,SHVSHV-A001,ATM,1/17/2023 9:06,Application Error,1/17/2023 11:30,No,ATM always error application(blue screen),"User : Seth Date  : Jan 17 2023  1:57PM
+Action :  ;
+
+User : Chean Sovanarath Date  : Jan 17 2023 12:01PM
+Action : _Go to drive C , Backup folder Journal, IP configuration , Computer name completed.
+_Go to drive D ,Backup folder Image to safe place done .
+_Power off and prepare install new HDD (S/N 20515U800642) successfully.
+Old HDD (S/N 20515U800524)
+_Power on ATM and backup all configuration and folder to the right position completed.
+_Bank load cash and perform tested transaction completed
+_Now ATM is has been changed new HDD .
+;
+
+User : Seth Date  : Jan 17 2023  9:08AM
+Action : ATM always error application(blue screen);
+
+",Software
+200123/12,AMKATM26,DN 100D,ASNTAN2-A001,ATM,1/20/2023 8:45,Cash Rejected and Torn,1/20/2023 10:40,No,Issue Cash broken in reject box,"User : Seth Date  : Jan 20 2023 10:54AM
+Action :  ;
+
+User : Chean Sovanarath Date  : Jan 20 2023 10:50AM
+Action : Power off machine 
+Removed picker and check feed wheel, take away and belt to check
+Replace feed wheel slot 4 (KHR 10K)
+Put back feed wheel and picker and power on machine
+Test and check device is ok
+Customer test cash and test transaction are ok;
+
+User : Seth Date  : Jan 20 2023  8:48AM
+Action : Issue Cash broken in reject box;
+
+",Dispenser
+230123/13,AMKATM71,DN 100D,SRPNMK-A001,ATM,1/23/2023 13:56,Connection Error,1/26/2023 10:55,Yes,Disconnect all Device,"User : Seth Date  : Jan 26 2023  4:15PM
+Action :  ;
+
+User : Deam1 Date  : Jan 26 2023  4:09PM
+Action : have 
+changed a new PC
+reboot win10, done
+recovery new image, done
+set communications of dispenser, done
+reconfigure the setting as IP, EJ, image capture, done 
+update probase C SP SIU 1.0.23.1, done
+Update probase C SystemCtrlInt SCI 1.0.37.2, done
+Load TMK successfully
+Mapping camera positions and still Error after restarted then checked on both camera was too hot.
+changed both new cameras
+Cannot test card then checked on cardreader
+changed a new CardReader ;
+
+User : Deam1 Date  : Jan 26 2023  4:07PM
+Action : have 
+_changed a new PC
+_reboot win10, done
+_recovery new image, done
+_set communications of dispenser, done
+_reconfigure the setting as IP, EJ, image capture, done 
+_update probase C SP SIU 1.0.23.1, done
+_Update probase C SystemCtrlInt SCI 1.0.37.2, done
+_Load TMK successfully
+_Mapping camera positions and still Error after restarted then checked on both camera was too hot.
+_changed both new cameras
+_Cannot test card then checked on cardreader( hardwear Erorr)
+_changed a new CardReader;
+
+User : Seth Date  : Jan 26 2023  4:05PM
+Action : have 
+_changed a new PC
+_reboot win10, done
+_recovery new image, done
+_set communications of dispenser, done
+_reconfigure the setting as IP, EJ, image capture, done 
+_update probase C SP SIU 1.0.23.1, done
+_Update probase C SystemCtrlInt SCI 1.0.37.2, done
+_Load TMK successfully
+_Mapping camera positions and still Error after restarted then checked on both camera was too hot.
+_changed both new cameras
+_Cannot test card then checked on cardreader( hardwear Erorr)
+_changed a new CardReader ;
+
+User : Seth Date  : Jan 26 2023  4:03PM
+Action : have 
+_changed a new PC
+_ re-boot win10, done
+_ recovery new image, done
+_ set communications of dispenser, done
+_ re-configure the setting as IP, EJ, image capture, done 
+_ update probase C SP SIU 1.0.23.1, done
+_ Update probase C SystemCtrlInt SCI 1.0.37.2, done
+_ Load TMK successfully
+_ Mapping camera positions and still Error after restarted then checked on both camera was too hot.
+_ changed both new cameras
+_ Cannot test card then checked on cardreader( hardwear Erorr)
+_ changed a new Card;
+
+User : Seth Date  : Jan 26 2023  4:01PM
+Action : have 
++ changed a new PC
++ re-boot win10, done
++ recovery new image, done
++ set communications of dispenser, done
++ re-configure the setting as IP, EJ, image capture, done 
++ update probase C SP SIU 1.0.23.1, done
++ Update probase C SystemCtrlInt SCI 1.0.37.2, done
++ Load TMK successfully
++ Mapping camera positions and still Error after restarted then checked on both camera was too hot.
++ changed both new cameras
++ Cannot test card then checked on cardreader( hardwear Erorr)
++ changed a new Card;
+
+User : Chean Sovanarath Date  : Jan 26 2023  3:54PM
+Action : + Restore image 
++ re-configure the setting as IP, EJ, image capture, done 
++ Load TMK done 
++ Mapping camera positions and still Error after restarted then checked on both camera was too hot.
++ changed both new cameras
++ Cannot test card then checked on card reader( hardware Error)
++ changed a new Card Reade 
++ checked device, ok
++ bank load cash and tested transaction, done.
++ Now, ATM is working normal.
+Note: 
+SN / Card Reader : New: 00G9110108
+ Old : 00G0035094
+SN / PC : New: 59JBM05923;
+
+User : Chean Sovanarath Date  : Jan 26 2023  3:51PM
+Action : + Restore image 
++ re-configure the setting as IP, EJ, image capture, done 
++ Load TMK done 
++ Mapping camera positions and still Error after restarted then checked on both camera was too hot.
++ changed both new cameras
++ Cannot test card then checked on card reader( hardware Error)
++ changed a new Card",Other
+030223/2,AMKATM53,DN 100D,ASNTAN1-A001,ATM,2/3/2023 10:27,Error Cassette,2/3/2023 12:12,No,Error cassette3 (10000KHR),"User : Seth Date  : Feb  3 2023  2:18PM
+Action : check all devices ATM status error pick failure detected from cassettes.
+Shutdown ATM and check dispenser.
+Check all slots cassette and check feed wheel,take away wheel, stripper wheel.
+Feed wheel and stripper wheel slot 3 , slot 4 is spoiled
+Removed out old device feed wheel and stripper wheel from slot 3, slot4.
+Replace new feed wheel and stripper wheel.
+Power on ATM and tested all devices status are ok.
+Bank loaded and tested transaction many times successfully.;
+
+User : Nao Bunseang Date  : Feb  3 2023 12:16PM
+Action : check all devices ATM status error pick failure detected from cassettes.
+-Shutdown ATM and check dispenser.
+-Check all slots cassette and check feed wheel,take away wheel, stripper wheel.
+-Feed wheel and stripper wheel slot 3 , slot 4 is spoiled
+-Removed out old device feed wheel and stripper wheel from slot 3, slot4.
+-Replace new feed wheel and stripper wheel.
+-Power on ATM and tested all devices status are ok.
+-Bank loaded and tested transaction many times successfully.
+-Now ATM working as nor;
+
+User : Nao Bunseang Date  : Feb  3 2023 12:09PM
+Action : check all devices ATM status error pick failure detected from cassettes.
+-Shutdown ATM and check dispenser.
+-Check all slots cassette and check feed wheel,take away wheel, stripper wheel.
+-Feed wheel and stripper wheel slot 3 , slot 4 is spoiled
+-Removed out old device feed wheel and stripper wheel from slot 3, slot4.
+-Replace new feed wheel and stripper wheel.
+-Power on ATM and tested all devices status are ok.
+-Bank loaded and tested transaction many times successfully.
+-Now ATM working as nor;
+
+User : Seth Date  : Feb  3 2023 11:38AM
+Action : check all devices ATM status error pick failure detected from cassettes.
+Shutdown ATM and check dispenser.
+Check all slots cassette and check feed wheel,take away wheel, stripper wheel.
+Feed wheel and stripper wheel slot 3 , slot 4 is spoiled
+Removed out old device feed wheel and stripper wheel from slot 3, slot4.
+Replace new feed wheel and stripper wheel.
+Power on ATM and tested all devices status are ok.
+Bank loaded and tested transaction many times successfully.
+Now ATM working as normal;
+
+User : Seth Date  : Feb  3 2023 11:37AM
+Action : check all devices ATM status error pick failure detected from cassettes.
+-Shutdown ATM and check dispenser.
+-Check all slots cassette and check feed wheel,take away wheel, stripper wheel.
+-Feed wheel and stripper wheel slot 3 , slot 4 is spoiled
+-Removed out old device feed wheel and stripper wheel from slot 3, slot4.
+-Replace new feed wheel and stripper wheel.
+-Power on ATM and tested all devices status are ok.
+-Bank loaded and tested transaction many times successfully.
+-Now ATM working as nor;
+
+User : Seth Date  : Feb  3 2023 10:30AM
+Action : Error cassette3 (10000KHR);
+
+",Dispenser
+140223/7,CCM1280015,DC365,CCM1280015,DC365,2/14/2023 8:45,Error amount,3/28/2023 14:00,No,Hight reject rate on deno 5K Khr,"User : Seth Date  : Mar 29 2023  4:32PM
+Action : update new image firmware 388718605;
+
+User : Seth Date  : Feb 14 2023  8:50AM
+Action : Total USD amount mismatch between machine and DCT (Under Denomination section);
+
+",Other
+140223/8,CCM1280012,DC365,CCM1280012,DC365,2/14/2023 8:59,Stuck Screen,3/14/2023 15:00,No,"When user scan QR on machine, there is only beep sound alert, but no success login such as depositor user and admin user (there is no error message alert). Also, no error as well when user open cover front or back cover)","User : Seth Date  : Mar 29 2023  4:34PM
+Action : New apk solve this problem;
+
+User : Seth Date  : Feb 14 2023  9:00AM
+Action : When user scan QR on machine, there is only beep sound alert, but no success login such as depositor user and admin user (there is no error message alert). Also, no error as well when user open cover front or back cover);
+
+",Software
+140223/9,CCM1280020,DC365,CCM1280020,DC365,2/14/2023 9:03,Error amount,5/22/2023 9:49,No,Not accept new Deno,"User : Botin Date  : May 27 2023  9:49AM
+Action : Update image firmware and configuration;
+
+User : Seth Date  : Feb 14 2023  9:05AM
+Action : User Deposit old version 1000 KHR (2012), machine accept but detect to 2000 KHR;",Other
+140223/10,AMKATM69,DN 100D,SKNSKN-A001,ATM,2/14/2023 9:56,Application Error,2/14/2023 11:50,Yes,Application hang,"User : Seth Date  : Feb 14 2023  2:37PM
+Action :  ;
+
+User : Chhom Vannak Date  : Feb 14 2023  2:16PM
+Action : - Print counter, Check all devices status Ok but application not working 
+- Power off ATM,  Check FIL , Power supply, PC, are Ok
+- ATM was extremely hot due to direct sunlight, and The A/C not working
+- Power on ATM , Checked and tested all devices Ok
+- Bank tested many transaction successfully
+- Now ATM working normal.;
+
+User : Chhom Vannak Date  : Feb 14 2023  2:16PM
+Action : - Print counter, Check all devices status Ok but application not working 
+- Power off ATM,  Check FIL , Power supply, PC, are Ok
+- ATM was extremely hot due to direct sunlight, and The A/C not working
+- Power on ATM , Checked and tested all devices Ok
+- Bank tested many transaction successfully
+- Now ATM working normal.;
+
+User : Seth Date  : Feb 14 2023  9:58AM
+Action : application hag;
+
+",Software
+200223/17,AMKATM55,DN 100D,TAKTAK-A001,ATM,2/20/2023 9:29,Cash Rejected and Torn,2/20/2023 16:57,No,ATM error reject note in reject box 50K,"User : Botin Date  : Feb 20 2023  8:49PM
+Action :  ;
+
+User : Chean Sovanarath Date  : Feb 20 2023  5:06PM
+Action : -Checked devices in TSOP are ok.
+-shutdown ATM checked dispenser found feed wheel, stripper wheel, take-way wheel in picker 4 (50K) are 
+spoils and pelt is broken.
+-Replace new feed wheel, stripper wheel, take-way wheel and pelt.
+-Start up ATM checked, tested, reset devices status are ok.
+-Perform bank load new cash and test transaction is successful.;
+
+User : Seth Date  : Feb 20 2023  9:32AM
+Action : ATM error reject note in reject box 50K;
+
+",Dispenser
+200223/19,AMKATM59,PC 280,PNPCKM-A001,ATM,2/20/2023 15:56,Shutter Error,2/20/2023 16:30,No,shutter error,"User : Botin Date  : Feb 20 2023  8:49PM
+Action :  ;
+
+User : Chean Sovanarath Date  : Feb 20 2023  4:55PM
+Action : .Checked devices dipenser error. 
+.Shutdown ATM removed shutter out to cleaned sensor shutter
+.Power on ATM reset devices and check all devices are ok
+.Bank test cash completed
+.Now ATM is working normal;
+
+User : Seth Date  : Feb 20 2023  4:00PM
+Action : Shutter error;
+
+",Dispenser
+020323/11,AMKATM55,DN 100D,TAKTAK-A001,ATM,3/2/2023 15:33,Cash Rejected and Torn,3/2/2023 15:48,No,ATM got torn note,"User : Srey Khuoch Date  : Mar  2 2023  3:49PM
+Action :  ;
+
+User : Deam1 Date  : Mar  2 2023  3:46PM
+Action : complete testing;
+
+User : Srey Khuoch Date  : Mar  2 2023  3:45PM
+Action : ATM got torn note;
+
+",Dispenser
+020323/12,AMKATM31,DN 100D,MEMMEM-A001,ATM,3/2/2023 15:53,Camera Error,3/2/2023 15:58,No,Camera error,"User : Srey Khuoch Date  : Mar  2 2023  3:58PM
+Action :   ;
+
+User : Deam1 Date  : Mar  2 2023  3:57PM
+Action : complete testing;
+
+User : Srey Khuoch Date  : Mar  2 2023  3:56PM
+Action : Camera error;
+
+",Camera
+030323/13,AMKATM53,DN 100D,ASNTAN1-A001,ATM,3/3/2023 8:58,Picker Error,3/3/2023 12:00,No,error picker three,"User : Seth Date  : Mar  6 2023 11:03AM
+Action : -Checked and tested device found ATM got error picker three. 
+-shutdown machine ATM and checked picker three found take away wheel feed wheel spoil . 
+-Replace feed wheel and take away to picker three completed . 
+-Power On ATM ,Checked and tested device are ok. 
+-Bank load cash and performed transaction completed. 
+-Now atm is working as normal .;
+
+User : Srey Khuoch Date  : Mar  3 2023  9:02AM
+Action : error picker three;
+
+",Dispenser
+060323/15,AMKATM28,DN 100D,PNPPDK-A001,ATM,3/6/2023 9:09,Camera Error,3/6/2023 10:05,No,Camera error,"User : Srey Khuoch Date  : Mar  6 2023  2:00PM
+Action :  ;
+
+User : Nao Bunseang Date  : Mar  6 2023 12:08PM
+Action : + check device
++ plug in crypta
++ cleared camera positions
++ mapping camera positions
++ checked device ok
++ restart AMk
++ tested transaction, and camera records again
++ Now, ATM is working normal.;
+
+User : Seth Date  : Mar  6 2023  9:11AM
+Action : camera error;
+
+",Camera
+100323/25,AMKATM55,DN 100D,TAKTAK-A001,ATM,3/10/2023 8:48,Cash Rejected and Torn,3/10/2023 9:50,No,error got a lot of reject,"User : Seth Date  : Mar 22 2023  8:23AM
+Action : complete;
+
+User : Sokheng Date  : Mar 10 2023 10:14AM
+Action : ATM error got a lot of reject;
+
+User : Chean Sovanarath Date  : Mar 10 2023  9:35AM
+Action : ATM error got a lot of reject ;
+
+User : Srey Khuoch Date  : Mar 10 2023  9:05AM
+Action : error got a lot of reject;
+
+",Dispenser
+100323/26,AMKATM69,DN 100D,SKNSKN-A001,ATM,3/10/2023 9:08,Show Black Screen,3/10/2023 16:00,Yes,error device disconnect and Black screen,"User : Seth Date  : Mar 12 2023 10:12PM
+Action : -Checked and tested device found some device disconnected and saw black screen after close operation door .
+-Power off ATM , Try to upluin USB but still not working  .
+-Changed new FIL (S/N :68N0285619) Old FIL (S/N:59N0013189) completed.
+-Changed new Power supply (S/N:59B0M10381) old Power supply (S/N:54B0N10054) with new cable from PC to FIL completed.
+-Power on ATM Checked and tested device are OK.
+-Bank load cash and perform transaction successfully. 
+-Now ATM is working as normal.;
+
+User : Rothana Date  : Mar 10 2023  4:49PM
+Action : ATM got black screen;
+
+User : Chean Sovanarath Date  : Mar 10 2023  9:36AM
+Action : ATM error device disconnect and Black screen;
+
+User : Srey Khuoch Date  : Mar 10 2023  9:20AM
+Action : error device disconnect and Black screen;
+
+",Software
+120323/54,AMKDC01,DC365,PPT Chbar Obpov,DC365,3/12/2023 21:03,Cash stack,3/13/2023 10:00,Yes,Can not deposit,"User : Seth Date  : Mar 13 2023 11:55AM
+Action : _Shutdown the machine
+_check and clean roller
+_perform testing
+_customer perform transaction;
+
+User : Seth Date  : Mar 12 2023  9:05PM
+Action : Can not deposit;
+
+",Dispenser
+140323/66,AMKATM53,DN 100D,ASNTAN1-A001,ATM,3/14/2023 9:20,Error Cassette,3/14/2023 14:00,No,error slot 3,"User : Seth Date  : Mar 15 2023  2:27PM
+Action : Shutdown machine and remove slot 3 out,
+adjust take away and stoipper wheel holder,
+tested put feed wheel, take away wheel, 
+stoipper wheel and put cassette to test. all ok,
+changed 1x feed wheel, 1x take away, 1x stoipper wheel,
+Power on machine and tested all devices again. ok,;
+
+User : Sovatdy Date  : Mar 14 2023 11:58AM
+Action : to check ATM got so many reject note on slot 3;
+
+User : Chean Sovanarath Date  : Mar 14 2023 11:20AM
+Action : error slot 3;
+
+User : Seth Date  : Mar 14 2023 11:20AM
+Action : error slot 3;
+
+User : Srey Khuoch Date  : Mar 14 2023  9:25AM
+Action : error slot 3;
+
+",Dispenser
+140323/67,AMKATM26,DN 100D,ASNTAN2-A001,ATM,3/14/2023 9:25,Error Cassette,3/14/2023 12:00,No,many reject notes on slot 3,"User : Srey Khuoch Date  : Mar 14 2023  4:57PM
+Action :  ;
+
+User : Chean Sovanarath Date  : Mar 14 2023  3:33PM
+Action : To check (got so many reject notes on slot 3)
+Check all parts of the dispenser 
+Change presenter belts 1 Feel wheel slot,Stripper wheel slot(2,3) 1x Take away wheel slot 3
+Power ON machine and test all devices ok
+Customer load cash and test transaction all ok
+Now ATM is working normal.;
+
+User : Sovatdy Date  : Mar 14 2023  2:49PM
+Action : Error slot 3;
+
+User : Deam1 Date  : Mar 14 2023  1:38PM
+Action : assign;
+
+User : Srey Khuoch Date  : Mar 14 2023  1:34PM
+Action : many reject notes on slot 3;
+
+User : Srey Khuoch Date  : Mar 14 2023  9:27AM
+Action : many reject notes on slot 3;
+
+",Dispenser
+150323/76,AMKATM08,DN 100D,PNPPNP-A002,ATM,3/15/2023 9:52,Safe door,3/15/2023 11:00,No,Check combination Lock,"User : Srey Khuoch Date  : Mar 15 2023  2:14PM
+Action :    ;
+
+User : Rothana Date  : Mar 15 2023 11:09AM
+Action : To checked combustion lock. Open safedoor and check on combination lock. Adjust site of lock pin and tested OK. Try to set combination password and tell branch to not set warning password. Password had set and Try to unlock many time.OK. now machine working normal.;
+
+User : Rothana Date  : Mar 15 2023 11:00AM
+Action : check combition lock;
+
+User : Chean Sovanarath Date  : Mar 15 2023 10:02AM
+Action : Check combination Lock.;
+
+User : Srey Khuoch Date  : Mar 15 2023  9:57AM
+Action : Check combination Lock;
+
+",Door Issue
+160323/81,AMKATM08,DN 100D,PNPPNP-A002,ATM,3/16/2023 8:41,Cash Rejected and Torn,3/16/2023 9:25,No,Torn note 100USD,"User : Seth Date  : Mar 16 2023 10:21AM
+Action :  ;
+
+User : Rothana Date  : Mar 16 2023  9:59AM
+Action : checked and tested device OK. shutdown machine ATM and checked slot 2 (100usd) found striple wheel loose .changed new striple wheel to slot 2 completed. return cash back and tested cash many time no see torn note in reject box anymore.  now ATM is working as normal;
+
+User : Rothana Date  : Mar 16 2023  9:26AM
+Action : check torn note 100USD;
+
+User : Chean Sovanarath Date  : Mar 16 2023  9:05AM
+Action : Fix ATM torn in reject box.;
+
+User : Seth Date  : Mar 16 2023  8:43AM
+Action : torn note 100USD;
+
+",Dispenser
+200323/95,AMKATM44,DN 100D,OMCOMC-A001,ATM,3/20/2023 17:13,Safe door,3/21/2023 16:12,Yes,combination lock running not smooth,"User : Srey Khuoch Date  : Mar 21 2023  5:07PM
+Action :   ;
+
+User : Sothearith Date  : Mar 21 2023  4:33PM
+Action : checked on Combination lock and tested many times found working not smooth removed out and checked again found combination still working not smooth changed new combination lock old combination lock sn 6651 017 and new combination lock sn 6651 017 now combination working as normal;
+
+User : Sothearith Date  : Mar 21 2023  4:08PM
+Action : combination lock running not smooth.;
+
+User : Chean Sovanarath Date  : Mar 21 2023  8:54AM
+Action : combination lock running not smooth;
+
+User : Srey Khuoch Date  : Mar 20 2023  5:17PM
+Action : combination lock running not smooth;
+
+",Door Issue
+220323/100,AMKATM70,DN 100D,PRHPRH-A001,ATM,3/22/2023 9:19,Card Jammed,3/22/2023 16:45,No,frequently got card jam,"User : Srey Khuoch Date  : Mar 22 2023  5:24PM
+Action :   ;
+
+User : Sothearith Date  : Mar 22 2023  5:02PM
+Action : checked device and found card reader error then turn ATM off removed out card reader SNOOGO120377 and replaced new card reader SNOOG106218 then turn on ATM checked devices again status OK bank tested transaction many times working as normal;
+
+User : Sothearith Date  : Mar 22 2023  4:42PM
+Action : card reader error;
+
+User : Chean Sovanarath Date  : Mar 22 2023 11:41AM
+Action : ATM frequently got card jam;
+
+User : Srey Khuoch Date  : Mar 22 2023  9:24AM
+Action : frequently got card jam;
+
+",Card reader
+220323/101,AMKDC03,DC365,PTT Prek Phnov,DC365,3/22/2023 10:17,Safe door,3/22/2023 10:56,No,safe door,"User : Srey Khuoch Date  : Mar 22 2023 10:58AM
+Action :   ;
+
+User : SOY Date  : Mar 22 2023 10:56AM
+Action : check safe door sensor now it work as normal;
+
+User : SOY Date  : Mar 22 2023 10:54AM
+Action : accept;
+
+User : BTI_Botin Date  : Mar 22 2023 10:53AM
+Action :    ;
+
+User : Srey Khuoch Date  : Mar 22 2023 10:23AM
+Action : safe door;
+
+",Door Issue
+220323/102,AMKATM43,DN 200V,PNPPNP-C001,CRM,3/22/2023 15:02,Card Reader Error,3/22/2023 16:08,Yes,error card reader,"User : Srey Khuoch Date  : Mar 22 2023  5:25PM
+Action :   ;
+
+User : Vannak Date  : Mar 22 2023  4:18PM
+Action : Check devices card reader error, power off CRM and removed card reader to cleaned , return back device to the right position, tested card reader many times is ok,Now CRM is working Normal;
+
+User : Vannak Date  : Mar 22 2023  3:53PM
+Action : Check Card reader Error;
+
+User : Than Rothana Date  : Mar 22 2023  3:09PM
+Action : Card Reader Error;
+
+User : Srey Khuoch Date  : Mar 22 2023  3:08PM
+Action : error card reader;
+
+",Card reader
+240323/110,AMKATM26,DN 100D,ASNTAN2-A001,ATM,3/24/2023 8:27,Error Cassette,3/24/2023 10:02,Yes,Error Cassette slot 4,"User : Srey Khuoch Date  : Mar 24 2023 10:53AM
+Action :  ;
+
+User : Sovatdy Date  : Mar 24 2023 10:19AM
+Action : To check ATM error cassttes 4. Check on slot 4 and check on Feed wheel take away wheel stripper wheel. Replace new Feed wheel take away and stripper wheel. Restart ATM and test cash for check. Okay. tested transaction on slot 4 many time. Now ATM is working normal.;
+
+User : Sovatdy Date  : Mar 24 2023 10:00AM
+Action : cassette 4 error;
+
+User : Chean Sovanarath Date  : Mar 24 2023  8:39AM
+Action : Error Cassette slot 4;
+
+User : Seth Date  : Mar 24 2023  8:30AM
+Action : Error cassette 3;
+
+",Dispenser
+240323/111,AMKATM28,DN 100D,PNPPDK-A001,ATM,3/24/2023 8:41,Connection Error,3/24/2023 9:45,Yes,Error device not connected,"User : Seth Date  : Mar 24 2023  9:57AM
+Action :  ;
+
+User : Rothana Date  : Mar 24 2023  9:49AM
+Action : checked and tested found device disconnected. shutdown machine ATM and replaced new Power supply SN 54B0N22544 and old Power supply SN 54B0N10088 completed. Power on ATM Checked and tested device are OK.now ATM is working as normal;
+
+User : Rothana Date  : Mar 24 2023  9:42AM
+Action : check device alway disconnect;
+
+User : Chean Sovanarath Date  : Mar 24 2023  8:47AM
+Action : Error device not connected;
+
+User : Seth Date  : Mar 24 2023  8:44AM
+Action : Error device not connected;
+
+",Other
+270323/120,AMKDC02,DC365,PPT Prey Key,DC365,3/27/2023 9:48,error cant deposit,3/27/2023 10:30,Yes,error can not deposit,"User : Srey Khuoch Date  : Mar 27 2023 10:33AM
+Action :    ;
+
+User : Chanpiseth Date  : Mar 27 2023 10:30AM
+Action : check and clean all sensor, let customer performance transaction. Now machine work as normal.;
+
+User : Chanpiseth Date  : Mar 27 2023 10:15AM
+Action : accept;
+
+User : BTI_Botin Date  : Mar 27 2023 10:13AM
+Action : error cant deposit;
+
+User : BTI_Botin Date  : Mar 27 2023 10:13AM
+Action : error cant deposit;
+
+User : Srey Khuoch Date  : Mar 27 2023 10:05AM
+Action : error can not deposit;
+
+",Other
+290323/125,AMKDC03,DC365,PTT Prek Phnov,DC365,3/29/2023 7:42,Safe door,3/29/2023 10:05,No,Change safe door sensor,"User : Srey Khuoch Date  : Mar 29 2023 10:11AM
+Action :   ;
+
+User : Chanpiseth Date  : Mar 29 2023 10:05AM
+Action : change new sensor, testing deposit confirm.;
+
+User : Chanpiseth Date  : Mar 29 2023  9:37AM
+Action : accept;
+
+User : BTI_Botin Date  : Mar 29 2023  7:47AM
+Action : assign;
+
+User : BTI_Botin Date  : Mar 29 2023  7:46AM
+Action : Assign;
+
+User : Seth Date  : Mar 29 2023  7:46AM
+Action : change safe door sensor;
+
+",Door Issue
+290323/128,AMKATM53,DN 100D,ASNTAN1-A001,ATM,3/29/2023 14:49,Restore image firmware,3/29/2023 17:40,No,restore new image,"User : Srey Khuoch Date  : Mar 30 2023  8:58AM
+Action :   ;
+
+User : Srey Khuoch Date  : Mar 30 2023  8:58AM
+Action :   ;
+
+User : Rothana Date  : Mar 29 2023  5:59PM
+Action : to restore image at tainan1.backup journal and iP address computer name to drive D completed. prepare restore image done .check and tested device are OK. operation perform loadcash and transaction completed. now ATM is working as normal.;
+
+User : Rothana Date  : Mar 29 2023  5:39PM
+Action : restore image;
+
+User : Chean Sovanarath Date  : Mar 29 2023  4:54PM
+Action : restore new image.;
+
+User : Srey Khuoch Date  : Mar 29 2023  2:53PM
+Action : restore new image;
+
+",Software
+040423/3,AMKATM43,DN 200V,PNPPNP-C001,CRM,4/4/2023 8:49,Error Cassette,4/4/2023 11:00,No,money messy in cassette deposit,"User : Srey Khuoch Date  : Apr  4 2023  4:20PM
+Action :   ;
+
+User : Rothana Date  : Apr  4 2023 11:33AM
+Action : Check and tested device are OK.process run hot info (probase kit step by step ) at admin user completed.restart machine CRM and checked and tested device after done run hotinfor is working normal. Bank perform test transactions successfully. now CRM is working as normal;
+
+User : Rothana Date  : Apr  4 2023 11:17AM
+Action : money messy in cassette deposit;
+
+User : Chean Sovanarath Date  : Apr  4 2023  8:56AM
+Action : Fix money messy in cassette deposit;
+
+User : Srey Khuoch Date  : Apr  4 2023  8:52AM
+Action : money messy in cassette deposit;
+
+",Dispenser
+080423/7,AMKDC02,DC365,PPT Prey Key,DC365,4/8/2023 13:43,Cash stack,4/8/2023 16:00,Yes,Cash Stuck,"User : Srey Khuoch Date  : Apr 11 2023  4:21PM
+Action :  ;
+
+User : Chanpiseth Date  : Apr  8 2023  4:10PM
+Action : cleaning the roller which have glue on it and clean some sensor;
+
+User : Chanpiseth Date  : Apr  8 2023  3:49PM
+Action : arrived site;
+
+User : Soy Chanpiseth Date  : Apr  8 2023  1:48PM
+Action : Assign;
+
+User : Parinha Date  : Apr  8 2023  1:46PM
+Action : Cash Stuck;
+
+",Dispenser
+110423/10,AMKATM53,DN 100D,ASNTAN1-A001,ATM,4/11/2023 8:36,Picker Error,4/11/2023 12:50,No,error picker,"User : Srey Khuoch Date  : Apr 11 2023  4:23PM
+Action :  ;
+
+User : Jack Date  : Apr 11 2023  1:28PM
+Action : Check and test all devices ATM status error cassettes slot4, shutdown ATM and check hardware dispenser cassettes slot4 feed wheel and take away, stripper wheel are spoiled, and check timing belt is spoiled too, Changed new feed wheel, take away, stripper wheel and changed new timing belt, power on ATM and tested all devices ATM is ok, Bank load cash and tested transactions many times successfully, Now ATM working as normally.;
+
+User : Jack Date  : Apr 11 2023 11:13AM
+Action : Check ATM error picker;
+
+User : Chean Sovanarath Date  : Apr 11 2023  9:05AM
+Action : error picker;
+
+User : Srey Khuoch Date  : Apr 11 2023  8:39AM
+Action : error picker;
+
+",Dispenser
+110423/11,AMKATM26,DN 100D,ASNTAN2-A001,ATM,4/11/2023 8:39,Cash Rejected and Torn,4/11/2023 12:10,No,got many reject notes on slot 50K,"User : Srey Khuoch Date  : Apr 11 2023  4:23PM
+Action :  ;
+
+User : Sovatdy Date  : Apr 11 2023 12:20PM
+Action : To check ATM got many reject at Tainan2. Check all device and check in slot 50K.Feed wheel and stripper wheel spoil. shutdown ATM and remove dispenser out. check on slot KHR 10K and 50K and changed 1xfeed wheel on slot 3 and 1xfeed wheel on slot 4. changed new stripper wheel on slot 3 and 4. Change new timing belt and adjust stripper wheel holder. Put dispenser back to machine and check all devices. OK . Customer return cash and loaded cash complete.  Tested transaction on 50K and another denomination. OK.  Now ATM is working normal.;
+
+User : Sovatdy Date  : Apr 11 2023 11:20AM
+Action : got many reject of slot 50K;
+
+User : Chean Sovanarath Date  : Apr 11 2023  9:06AM
+Action : got many reject notes on slot 50K;
+
+User : Srey Khuoch Date  : Apr 11 2023  8:44AM
+Action : got many reject notes on slot 50K;
+
+",Dispenser
+170423/12,AMKATM73,DN 200V,SNGSNG-C001,CRM,4/17/2023 11:15,Connection Error,4/17/2023 16:02,Yes,CRM error Input Output Unit,"User : Seth Date  : Apr 17 2023  5:10PM
+Action :  ;
+
+User : Jack Date  : Apr 17 2023  4:07PM
+Action : Check CDM error Input output unit, Check and test, reset CDM status error jam in IO area, Shutdown CDM and removed out IO and checked all device, Cleaning all device and all sensors, Put back device and power on CDM, Check and test many time CDM still error, Shutdown again and changed new IO, S/N: New 7504429773, Old 7504852038, power on CDM and tested all devices status are OK, Bank tested transactions  many times successfully, Now CDM working as normally.;
+
+User : Jack Date  : Apr 17 2023  3:41PM
+Action : CDM error Input output unit;
+
+User : Chean Sovanarath Date  : Apr 17 2023 11:29AM
+Action : CRM error Input Output Unit;
+
+User : Srey Khuoch Date  : Apr 17 2023 11:23AM
+Action : CRM error Input Output Unit;
+
+",Other
+180423/13,AMKATM39,DN 100D,PNPEGN-C001,ATM,4/18/2023 10:19,Camera Issue,4/18/2023 11:31,No,Camera unable to capture,"User : Srey Khuoch Date  : Apr 18 2023  3:46PM
+Action :   ;
+
+User : Sounin Date  : Apr 18 2023 11:45AM
+Action : camera,not,unnable,capture,power,off,atm,and,out,put,usb,about5m,in,put,camera,is,unnable,capture,change,the,1new,camera,now,camera,casg,slot,is,working,normal;
+
+User : Sounin Date  : Apr 18 2023 11:29AM
+Action : fix camera unable;
+
+User : Khen Raksmey Date  : Apr 18 2023 10:23AM
+Action : Assigned. ;
+
+User : Srey Khuoch Date  : Apr 18 2023 10:21AM
+Action : Camera unable to capture;
+
+",Camera
+200423/18,AMKATM05,DN 100D,BMCPOP-A001,ATM,4/20/2023 15:21,Card Reader Error,4/20/2023 16:20,Yes,error card reader,"User : Srey Khuoch Date  : Apr 20 2023  5:00PM
+Action :  ;
+
+User : Sovanarath Date  : Apr 20 2023  4:21PM
+Action : Print counter and shutdown power ATM, Check crad reader have ants,Remove card reader and cleaned,Put back to possiton,Test crad many times still Jam, Replace new crad reader S/N 00G9120170 ,Old crad reader S/N 00G0120381 ,Bank preform transaction many times is ok,Now ATM working normal.;
+
+User : Sovanarath Date  : Apr 20 2023  3:33PM
+Action : Error card reader;
+
+User : Chean Sovanarath Date  : Apr 20 2023  3:29PM
+Action : error card reader;
+
+User : Srey Khuoch Date  : Apr 20 2023  3:26PM
+Action : error card reader;
+
+",Card reader
+210423/19,AMKATM57,DN 200V,PNPPSM-C001,CRM,4/21/2023 11:43,Connection Error,4/21/2023 16:30,Yes,Device not connected,"User : Srey Khuoch Date  : Apr 21 2023  4:52PM
+Action :  ;
+
+User : Sounin Date  : Apr 21 2023  4:41PM
+Action : Check CRM RM4 error. Check all devices. BVM board is no power in. Changed new BVM board. still RM4 not connect. shutdown machine and replace CHT board and power on. check and test all device again.ok . customer return cash and test transaction ok. bvm board old sn 036026 new sn 020943. CHT controller board old sn 59m0280047. new 59L0189870;
+
+User : Sounin Date  : Apr 21 2023  3:17PM
+Action : CRM error RM4 not connect (PNPPSM);
+
+User : Khen Raksmey Date  : Apr 21 2023 11:48AM
+Action : Assigned ;
+
+User : Srey Khuoch Date  : Apr 21 2023 11:46AM
+Action : Device not connected;
+
+",Other
+260423/26,AMKATM51,DN 100D,KCHMDT-A001,ATM,4/26/2023 13:04,Cash Rejected and Torn,4/26/2023 15:10,No,got torn note 100$ in rejected,"User : Srey Khuoch Date  : Apr 26 2023  4:43PM
+Action :  ;
+
+User : Srey Khuoch Date  : Apr 26 2023  4:43PM
+Action :  ;
+
+User : Sopheap Date  : Apr 26 2023  3:33PM
+Action : To checked ATM got turn note USD100 in reject box then checked status in SOP and checked dispenser in picker 4 found Feel wheel stripper and take way are spoil and change one set new already checked cassette comfirm then bank test transaction many time working normal and Now ATM keep monitoring;
+
+User : Sopheap Date  : Apr 26 2023  3:07PM
+Action : issue;
+
+User : Than Rothana Date  : Apr 26 2023  2:13PM
+Action : ATM got torn note 100$ at Kompong cham province ;
+
+User : Srey Khuoch Date  : Apr 26 2023  1:08PM
+Action : got torn note 100$ in rejected;
+
+",Dispenser
+260423/27,AMKATM66,DN 200V,PSTPST-A001,CRM,4/26/2023 14:55,HDD issue,4/27/2023 12:00,Yes,CRM fail to detect HDD,"User : Srey Khuoch Date  : Apr 27 2023  1:59PM
+Action :   ;
+
+User : Vannak Date  : Apr 27 2023 12:28PM
+Action : Open machine HDD not available. shutdown machine removed out PC and HDD, check are ok. Put back PC and HDD to machine. Power on CRM still error HDD not available. shutdown machine change new HDD power on machine reinstall image and tested all devices status Ok .config IP.Pc name and apply regedit . bank load cash and do transaction successfully. now CRM working normal.;
+
+User : Vannak Date  : Apr 27 2023 11:22AM
+Action : CRM fail to detect HDD;
+
+User : Than Rothana Date  : Apr 26 2023  2:58PM
+Action : CRM fail to Detect HDD;
+
+User : Srey Khuoch Date  : Apr 26 2023  2:57PM
+Action : CRM fail to detect HDD;
+
+",Other
+270423/28,AMKATM65,DN 100D,PUKPUK-A001,ATM,4/27/2023 13:37,Cash Rejected and Torn,4/27/2023 15:05,No,ATM torn note 50K,"User : Srey Khuoch Date  : Apr 27 2023  4:59PM
+Action :  ;
+
+User : Bunseang Date  : Apr 27 2023  3:30PM
+Action : power off machine check feed wheel, picker belt, take away stripper wheel slot 4(KHR 50K) check side cassettes 50K adjust side  power on machine and check devices is ok  bank load cash and test transaction is working;
+
+User : Bunseang Date  : Apr 27 2023  2:24PM
+Action : ATM torn note 50K;
+
+User : Chean Sovanarath Date  : Apr 27 2023  1:59PM
+Action : ATM torn note 50K;
+
+User : Srey Khuoch Date  : Apr 27 2023  1:40PM
+Action : ATM torn note 50K;
+
+",Dispenser
+020523/1,AMKDC01,DC365,PPT Chbar Obpov,DC365,4/27/2023 14:00,Cash stack,4/27/2023 15:30,Yes,can not deposit,"User : Seth Date  : May  2 2023  6:54AM
+Action :  ;
+
+User : BTI_Botin Date  : May  2 2023  6:54AM
+Action : check and clean all sensor then do CIS correction;
+
+User : Seth Date  : May  2 2023  6:51AM
+Action : can not deposit;
+
+",Dispenser
+270423/29,AMKATM15,DN 100D,BMCBMC-A001,ATM,4/27/2023 14:58,Error Cassette,4/27/2023 16:13,No,error cassette slot 4 (20k),"User : Srey Khuoch Date  : Apr 27 2023  5:02PM
+Action :  ;
+
+User : Sokheng Date  : Apr 27 2023  4:32PM
+Action : Print counter, checked all devices are ok,power off machine,checked picker slot4 (20k) found feed wheel,stripper  wheel, take away spoiled,Replace New feed wheel, stripper wheel, take away,Adjust size c assette (20k),Power on ATM checked and tested devices ok,Bank do many transactions successfully,Now ATM working as normal;
+
+User : Sokheng Date  : Apr 27 2023  3:25PM
+Action : Error cassette slot 4 (20k);
+
+User : Than Rothana Date  : Apr 27 2023  3:03PM
+Action : error cassette slot 4 (20K);
+
+User : Srey Khuoch Date  : Apr 27 2023  3:01PM
+Action : error cassette slot 4 (20k);
+
+",Dispenser
+090523/8,AMKATM06,DN 100D,BTBPSN-A001,ATM,5/9/2023 8:15,LCD screen issue,5/9/2023 10:16,No,ATM error touch screen,"User : Srey Khuoch Date  : May  9 2023  4:58PM
+Action :   ;
+
+User : Sokheng Date  : May  9 2023 10:34AM
+Action : Print counter, checked all devices show status touch screen not connected, power off machine, try to tested unplug USB from board to screen but still error,replace new board touch screen,power on machine and  tested touch screen is working as normal;
+
+User : Sokheng Date  : May  9 2023 10:14AM
+Action : ATM error touch screen;
+
+User : Than Rothana Date  : May  9 2023  8:20AM
+Action : ATM got error touch screen ;
+
+User : Srey Khuoch Date  : May  9 2023  8:17AM
+Action : ATM error touch screen;",Other
+090523/11,AMKDC01,DC365,PTT Chbar Obpov,DC365,5/9/2023 10:40,Cash stack,5/9/2023 11:20,No,Replace POS sensor,"User : Srey Khuoch Date  : May  9 2023  5:05PM
+Action :  ;
+
+User : Sopheaparinha Date  : May  9 2023 11:23AM
+Action : Replace POS08 sensor;
+
+User : Sopheaparinha Date  : May  9 2023 10:48AM
+Action : accept;
+
+User : Soy Chanpiseth Date  : May  9 2023 10:45AM
+Action : Assigned task;
+
+User : Parinha Date  : May  9 2023 10:43AM
+Action : Replace POS8 sensor;",Dispenser
+090523/13,AMKATM10,DN 100D,PNPCCV-A001,ATM,5/9/2023 14:29,Receipt jam,5/9/2023 15:00,No,error receipt printer,"User : Srey Khuoch Date  : May  9 2023  5:07PM
+Action :  ;
+
+User : Srey Khuoch Date  : May  9 2023  5:07PM
+Action :  ;
+
+User : Channa Date  : May  9 2023  3:35PM
+Action : to checked receipt printer error;
+
+User : Channa Date  : May  9 2023  3:13PM
+Action : Receipt Error;
+
+User : Than Rothana Date  : May  9 2023  2:49PM
+Action : ATM error receipt printer;
+
+User : Srey Khuoch Date  : May  9 2023  2:33PM
+Action : error receipt printer;",Recipt printer
+110523/19,AMKATM55,DN 100D,TAKTAK-A001,ATM,5/11/2023 8:41,Cash Rejected and Torn,5/11/2023 11:30,No,got many reject notes on 50K denomination,"User : Srey Khuoch Date  : May 11 2023  4:42PM
+Action :  ;
+
+User : Raksmey Date  : May 11 2023 11:47AM
+Action : To check ATM frequently high reject and pick failure.  Checked all ATM devices, transport path, belts, feed wheels, stripper wheel, takeaway wheel. Shutdown ATM. Removed and replaced feed , stripper wheel, takeaways wheel for slot 4 for 50K. clean all path, transport path, Readjust the note stacking tray teeth from 4 to 3 position, adjust the cassettes side guide from 5,5 to 5,6. Test,reset test for all ATM devices status are in normal operation. Branch perform transactions and dispensed in good conditions of bank notes.;
+
+User : Raksmey  Date  : May 11 2023 11:19AM
+Action : To check ATM frequently cash reject and pick failure;
+
+User : Sopheak Sovatdy Date  : May 11 2023  8:51AM
+Action : Fix ATM error(Go many reject notes on 50K denomination);
+
+User : Srey Khuoch Date  : May 11 2023  8:46AM
+Action : got many reject notes on 50K denomination;",Dispenser
+110523/20,AMKATM53,DN 100D,ASNTAN1-A001,ATM,5/11/2023 12:42,Cash Rejected and Torn,5/11/2023 14:40,No,cash shortage and note 50k always reject a lot of note,"User : Srey Khuoch Date  : May 11 2023  5:07PM
+Action :  ;
+
+User : Jack Date  : May 11 2023  4:59PM
+Action : check all devices ATM status are ok, shutdown ATM and removed out presenter, adjust size stacker finger 4 to 3, clean hardware (feed wheel, take away wheel, stripper wheel and sensor shutter), Put back device presenter and power on ATM, tested all devices are ok, bank load cash and tested transactions many times successfully.;
+
+User : Jack Date  : May 11 2023  4:31PM
+Action : To check ATM error cash shortage and note 50k always reject a lot of note, check all devices are ok, shutdown ATM and removed out presenter, adjust size stacker finger 4 to 3, clean hardware (feed wheel, take away wheel, stripper wheel and shutter pr;
+
+User : Chean Sovanarath Date  : May 11 2023  4:20PM
+Action : cash shortage and note 50k always reject a lot of note;
+
+User : Srey Khuoch Date  : May 11 2023 12:45PM
+Action : cash shortage and note 50k always reject a lot of note;",Dispenser
+180523/35,AMKATM65,DN 100D,PUKPUK-A001,ATM,5/18/2023 9:59,Card Jammed,5/18/2023 10:22,No,Card Jam,"User : Srey Khuoch Date  : May 18 2023  4:33PM
+Action :   ;
+
+User : Sounin Date  : May 18 2023 10:24AM
+Action : own ATM removed card reader. replace new card reader for monitoring. power on atm  tested card reader is working back.test card reader and do transactions so many times is ok.now atm is working normal;
+
+User : Sounin Date  : May 18 2023 10:08AM
+Action : checked ATM card jam;
+
+User : Sopheak Sovatdy Date  : May 18 2023 10:06AM
+Action : Issue card jammed;
+
+User : Srey Khuoch Date  : May 18 2023 10:05AM
+Action : Card Jam;",Card reader
+230523/36,AMKATM24,DN 100D,KPSKPS-A001,ATM,5/23/2023 8:15,Camera Issue,5/23/2023 10:20,No,Camera portrait error,"User : Srey Khuoch Date  : May 23 2023  5:37PM
+Action :  ;
+
+User : Sokheng Date  : May 23 2023 10:32AM
+Action : Printed counter and checked all devices found portrait camera not connected,power off ATM and try to tested unplug USB from camera and cleaned,power on machine tested many transaction and checked portrait camera is captured as normal,now ATM is working as normal;
+
+User : Sokheng Date  : May 23 2023 10:16AM
+Action : Camera portrait error ( Kong pisei);
+
+User : Than Rothana Date  : May 23 2023  8:28AM
+Action : Camera portrait error;
+
+User : Srey Khuoch Date  : May 23 2023  8:19AM
+Action : Camera portrait error;",Camera
+240523/37,AMKATM53,DN 100D,ASNTAN1-A001,ATM,5/24/2023 12:53,Cash Jam,5/24/2023 16:20,No,Cash jammed on Staker,"User : Srey Khuoch Date  : May 24 2023  5:08PM
+Action :  ;
+
+User : Sovatdy Date  : May 24 2023  4:21PM
+Action : Print counter and open safe door. Check the dispenser saw the notes jammed in presenter and stacker. Removed notes out and check in cassette. Cassette was put maximum notes .2300 notes. Checked other part in AFD. Timing belt and presenter belt is not in the good condition. Replaced presenter belt and Timing belt. Adjust shutter in camp to make it more smooth. Checked and configured cassette of KHR both set. Check and test all devices again. All okay. Customer load cash and tested transaction. Okay. Now machine is working normal.;
+
+User : Sovatdy Date  : May 24 2023  4:05PM
+Action : Tainan1 Cash jammed on stacker;
+
+User : Than Rothana Date  : May 24 2023 12:58PM
+Action : Cash jammed on stacker;
+
+User : Srey Khuoch Date  : May 24 2023 12:57PM
+Action : Cash jammed on Staker;",Dispenser
+260523/38,AMKATM24,DN 100D,KPSKPS-A001,ATM,5/26/2023 9:13,Camera Issue,5/26/2023 9:53,No,Camera portrait error,"User : Srey Khuoch Date  : May 26 2023 12:01PM
+Action :  ;
+
+User : Sokheng Date  : May 26 2023  9:54AM
+Action : Printed counter and checked all devices found portrait camera not connected,power off ATM and try to tested unplug USB from camera but still error,replace new portrait camera,power on machine tested many transaction and checked portrait camera is captured as normal,now ATM is working as normal;
+
+User : Sokheng Date  : May 26 2023  9:52AM
+Action : Camera portrait error (Kong pisei);
+
+User : Deam1 Date  : May 26 2023  9:49AM
+Action : assign ;
+
+User : Srey Khuoch Date  : May 26 2023  9:15AM
+Action : Camera portrait error;",Camera
+290523/39,AMKDC02,DC365,PPT Prey Key,DC365,5/29/2023 9:58,Cash stack,5/29/2023 10:25,Yes,Cash stuck and error,"User : Srey Khuoch Date  : May 29 2023 10:55AM
+Action :  ;
+
+User : Sopheaparinha Date  : May 29 2023 10:27AM
+Action : clean dust and calibration sensor;
+
+User : Sopheaparinha Date  : May 29 2023 10:03AM
+Action : accept;
+
+User : BTI_Botin Date  : May 29 2023 10:02AM
+Action : assign;
+
+User : Srey Khuoch Date  : May 29 2023 10:00AM
+Action : Cash stuck and error;",Dispenser
+290523/40,AMKATM57,DN 200V,PNPPSM-C001,CRM,5/29/2023 15:08,Show Black Screen,5/29/2023 15:30,Yes,error not available boot,"User : Srey Khuoch Date  : May 29 2023  4:54PM
+Action :   ;
+
+User : Sokheng Date  : May 29 2023  3:32PM
+Action : shutdown machine and try to reconnect all sata and clean hard disk, power on machine and test all devices are OK, Bank test many transaction successfully.;
+
+User : Sokheng Date  : May 29 2023  3:25PM
+Action : Error Not available boot(60m);
+
+User : Chean Sovanarath Date  : May 29 2023  3:15PM
+Action : error not available boot;
+
+User : Srey Khuoch Date  : May 29 2023  3:12PM
+Action : error not available boot;",Software
+310523/41,AMKATM70,DN 100D,PRHPRH-A001,ATM,5/31/2023 8:38,Card Jammed,5/31/2023 9:50,No,card jam,"User : Srey Khuoch Date  : May 31 2023 11:49AM
+Action :   ;
+
+User : Sokheng Date  : May 31 2023 10:49AM
+Action : Print counter,and check all devices found card reader error,power off ATM and try to clean unplug USB from card reader but still error, replaced new card reader,power on ATM and tested devices are ok,bank do many transaction successfully,now ATM is working as normally;
+
+User : Sokheng Date  : May 31 2023  9:43AM
+Action : Card jam(PHV);
+
+User : Chean Sovanarath Date  : May 31 2023  8:45AM
+Action : card jam ;
+
+User : Srey Khuoch Date  : May 31 2023  8:40AM
+Action : card jam ;",Card reader
+050623/9,AMKATM10,DN 100D,PNPCCV-A001,ATM,6/5/2023 10:02,Cash Rejected and Torn,6/5/2023 14:33,No,torn notes 50K,"User : Srey Khuoch Date  : Jun  5 2023  4:34PM
+Action :  ;
+
+User : Channa Date  : Jun  5 2023  2:49PM
+Action : check torn note 50k;
+
+User : Channa Date  : Jun  5 2023  2:29PM
+Action : check torn note 50k;
+
+User : Chean Sovanarath Date  : Jun  5 2023  2:27PM
+Action : torn notes 50K ;
+
+User : Srey Khuoch Date  : Jun  5 2023 10:05AM
+Action : torn notes 50K ;",Dispenser
+080623/26,AMKATM26,DN 100D,ASNTAN2-A001,ATM,6/8/2023 8:55,Error Cassette,6/8/2023 12:07,No,Issue cassette 10k pick up fail,"User : Srey Khuoch Date  : Jun  8 2023  2:11PM
+Action :  ;
+
+User : Bunseang Date  : Jun  8 2023 12:12PM
+Action : shutdown and removed feed wheel take stripper wheel  replace new feed wheel and take away x1 adjust stacker finger 4 to 3 power on machine and test devices is ok  customer load cash and tested transactions;
+
+User : Bunseang Date  : Jun  8 2023 11:34AM
+Action : check cassette 10k pick up fail;
+
+User : Nao Bunseang Date  : Jun  8 2023  9:03AM
+Action : Check cassette 10K pick up fail;
+
+User : Srey Khuoch Date  : Jun  8 2023  8:58AM
+Action : Issue cassette 10k pick up fail;",Dispenser
+090623/30,AMKATM91,DN 200V,ANSVSR-C001,CRM,6/9/2023 10:01,Connection Error,6/9/2023 15:11,Yes,CRM error RM4 board not connect,"User : Srey Khuoch Date  : Jun  9 2023  4:02PM
+Action :  ;
+
+User : Sopheap Date  : Jun  9 2023  3:39PM
+Action : check device tsop found controller board not connected , shutdown and checked controller board and unplug and plugging the USB, turn CRM checked device in tsop and the controller still not connected shutdown CRM and install a new Controller board to the right position, turn on crm and check device do secure communication and load firmware found the controller board working fine, Bank load cash and tested transactions completed, now CRM back working.;
+
+User : Sopheap Date  : Jun  9 2023  3:00PM
+Action : CRM error RM4 board not connect;
+
+User : Than Rothana Date  : Jun  9 2023 10:08AM
+Action : CRM error RM4 board not connect ;
+
+User : Srey Khuoch Date  : Jun  9 2023 10:03AM
+Action : CRM error RM4 board not connect;",Other
+130623/39,AMKDC06,DC365,PTT Siem Reap,DC365,6/13/2023 15:56,Error Sensor,6/14/2023 15:40,No,CDM not count money,"User : Srey Khuoch Date  : Jun 14 2023  4:43PM
+Action :  ;
+
+User : Sopheaparinha Date  : Jun 14 2023  4:10PM
+Action : Replace Hopper sensor,check all device and perform testing;
+
+User : Sopheaparinha Date  : Jun 14 2023  2:15PM
+Action : Accept;
+
+User : BTI_Botin Date  : Jun 13 2023  4:00PM
+Action : assign;
+
+User : Srey Khuoch Date  : Jun 13 2023  3:59PM
+Action : CDM not count money;",Other
+140623/40,ATM-share 01,DN 100D,A-Z Market at BKK,ATM,6/14/2023 8:32,LCD screen issue,6/14/2023 10:36,No,Error Touch screen (not connect),"User : Srey Khuoch Date  : Jun 14 2023  2:09PM
+Action :  ;
+
+User : Sothira Date  : Jun 14 2023 10:42AM
+Action : Purpose: To check ATM receipt error and Touch Screen error. Action, check ATM and print counter. Shut down and removed paper out (Paper Jam). Replaced new Touch Screen Board. Power on ATM and Checked device status are ok. Bank tested transaction is completed. Result: Now ATM is working as normal. Thanks;
+
+User : Sothira Date  : Jun 14 2023 10:34AM
+Action : Fix Issue;
+
+User : Than Rothana Date  : Jun 14 2023  9:03AM
+Action : Error Touch screen (Not connect);
+
+User : Srey Khuoch Date  : Jun 14 2023  8:36AM
+Action : Error Touch screen (not connect);",Other
+150623/48,BKCRM001,DN 200V,BKCRM001,CRM,6/15/2023 15:07,Camera Error,6/15/2023 17:37,No,Cash slot camera error,"User : Srey Khuoch Date  : Jun 16 2023  8:39AM
+Action :   ;
+
+User : Sovatdy Date  : Jun 15 2023  5:42PM
+Action : To check camera error at Boko branch. Check both camera of CRM has block by security of bank. Ask them to unblock on camera and test confirm devices. OK. Now CRM is working normal.;
+
+User : Sovatdy Date  : Jun 15 2023  4:07PM
+Action : Cash slot camera error;
+
+User : Sopheak Sovatdy Date  : Jun 15 2023  4:05PM
+Action : Cash Slot camera error;
+
+User : Srey Khuoch Date  : Jun 15 2023  3:12PM
+Action : Cash slot camera error;",Camera
+160623/49,AMKATM91,DN 200V,ANSVSR-C001,CRM,6/16/2023 8:29,Error Cassette,6/16/2023 11:10,No,error cassette 5,"User : Srey Khuoch Date  : Jun 16 2023  3:34PM
+Action :   ;
+
+User : Sopheap Date  : Jun 16 2023 11:45AM
+Action : to check crm error cassette slot 5 check and test device found cassette slot 5 working not stable check cable connect from cassette to mainboard are ok try to reboot machine many time seen crm cassette slot 5 still not stable changed new board sn 59n6798196 old board sn 59n6798377 successfully Power on crm check and tested device are OK  branch load cash and perform transaction Successfully and please help keep monitoring after changed new board;
+
+User : Sopheap Date  : Jun 16 2023 11:10AM
+Action : To check CRM error cassette all In at Vengsreng;
+
+User : Chean Sovanarath Date  : Jun 16 2023 11:07AM
+Action : error cassette 5;
+
+User : Chean Sovanarath Date  : Jun 16 2023 10:47AM
+Action : error cassette 5;
+
+User : Srey Khuoch Date  : Jun 16 2023  8:37AM
+Action : error cassette 5;
+
+",Dispenser
+200623/60,AMKATM60,DN 100D,ASNCPV-A001,ATM,6/20/2023 9:07,Receipt jam,6/20/2023 10:19,No,error receipt printer,"User : Srey Khuoch Date  : Jun 20 2023  4:57PM
+Action :  ;
+
+User : Sounin Date  : Jun 20 2023 10:20AM
+Action : checked device and print counter show receipt error reset and test function shutdown ATM remove out and cleaned returned back to the right position open ATM and test print working back;
+
+User : Sounin Date  : Jun 20 2023 10:09AM
+Action : check receipt error;
+
+User : Than Rothana Date  : Jun 20 2023  9:25AM
+Action : receipt printer error ;
+
+User : Srey Khuoch Date  : Jun 20 2023  9:11AM
+Action : error receipt printer;
+
+",Recipt printer
+220623/68,SHVCRM01,DN 200V,SHVCRM01,CRM,6/22/2023 9:10,Error Cassette,6/22/2023 11:08,No,Messy notes in cassette deposit,"User : Srey Khuoch Date  : Jun 22 2023  2:05PM
+Action :   ;
+
+User : Sovatdy Date  : Jun 22 2023 11:14AM
+Action : To check CRM got messy notes in Deposit cassette at SHVCRM01. Open operation door and adjusted tray of IO module and Collector module. Check on cassette of Deposit.ok. Bank load cash and tested Deposit transaction with 100K notes.  Okay. Now CRM is working normal.;
+
+User : Sovatdy Date  : Jun 22 2023  9:19AM
+Action : CRM got messy notes in Deposit cassette. (SHVCRM01);
+
+User : Nao Bunseang Date  : Jun 22 2023  9:17AM
+Action : messy notes in cassette deposit ;
+
+User : Srey Khuoch Date  : Jun 22 2023  9:12AM
+Action : Messy notes in cassette deposit;
+
+",Dispenser
+220623/71,AMKATM50,DN 100D,PNPBKT-A001,ATM,6/22/2023 15:27,Camera Error,6/22/2023 16:08,No,Camera blur,"User : Srey Khuoch Date  : Jun 22 2023  4:39PM
+Action :  ;
+
+User : Jack Date  : Jun 22 2023  4:17PM
+Action : _To check ATM camera blur. Checked see blur. Cleaned camera and port camera still blur. Shutdown ATM and removed old camera out and replaced new camera. Power on ATM and cleared mapping to right position. Bank tested transaction and camera cash slot capture as normal.;
+
+User : Jack Date  : Jun 22 2023  3:55PM
+Action : check ATM error camera;
+
+User : Touch Jack Date  : Jun 22 2023  3:52PM
+Action : check ATM error camera;
+
+User : Srey Khuoch Date  : Jun 22 2023  3:29PM
+Action : Camera blur;
+
+",Camera
+260623/80,AMKATM56,DN 100D,PNPPSC-A001,ATM,6/26/2023 8:39,Error Cassette,6/26/2023 11:06,No,error missing reject box,"User : Srey Khuoch Date  : Jun 26 2023  2:26PM
+Action :   ;
+
+User : Jack Date  : Jun 26 2023 11:06AM
+Action : Purpose: To checked ATM error Reject Box at Phsar Chas Branch. Action: Checked devices and print counter. Power off ATM and removed out Presenter. Soldering sensor Reject Box and checked cassette slot 4 change one takeaway wheel for slot 4. Installed back devices into the right position. Power on ATM and checked devices status are OK. Bank loaded cash and test transaction is completed. Result: Now ATM is working as normal.;
+
+User : Jack Date  : Jun 26 2023 10:11AM
+Action : Fix Issue;
+
+User : Nao Bunseang Date  : Jun 26 2023  9:57AM
+Action : Error missing reject box;
+
+User : Srey Khuoch Date  : Jun 26 2023  8:44AM
+Action : error missing reject box;",Dispenser
+280623/89,AMKATM28,DN 100D,PNPPDK-A001,ATM,6/28/2023 15:45,Error special eclectic,6/28/2023 16:23,Yes,error special eclectic not connect,"User : Srey Khuoch Date  : Jun 28 2023  4:53PM
+Action :  ;
+
+User : Chim Valid Date  : Jun 28 2023  4:34PM
+Action : Purpose To checked ATM error special electronic at Phsar Depo Branch. Action  Checked and tested device s seen special electronic not sync to PC. Power off ATM and removed out FIL. Changed new FIL SN 59N0013443 and SN Old 59N0012900. Power on ATM and tested devices are OK. Bank tested transaction is completed. Now ATM is working as normal.;
+
+User : Chim Valid Date  : Jun 28 2023  4:21PM
+Action : Check ATM error special electronic;
+
+User : Sopheak Sovatdy Date  : Jun 28 2023  4:19PM
+Action : error special eclectic not connect;
+
+User : Sopheak Sovatdy Date  : Jun 28 2023  4:00PM
+Action : Error Special Electronic not connect ;
+
+User : Srey Khuoch Date  : Jun 28 2023  3:57PM
+Action :  ;
+
+User : Srey Khuoch Date  : Jun 28 2023  3:47PM
+Action : error special eclectic not connect;",Other
+030723/1,AMKATM56,DN 100D,PNPPSC-A001,ATM,7/3/2023 10:17,Cash Jam,7/3/2023 11:27,No,error Cash jam on reject Box,"User : Srey Khuoch Date  : Jul  4 2023  8:50AM
+Action :   ;
+
+User : Vannak Date  : Jul  3 2023 11:33AM
+Action : Purpose to checked ATM cash jam on reject box. Action checked devices and print counter. Power off ATM and checked on slot reject box and reject box. Removed out Retract Partition on reject box. Changed one stripper wheel on slot 1. Installed back devices into the right position. Power on ATM and checked devices are OK. Bank load cash and test cash two time and tested transaction is completed. Now ATM is working as normal. Thanks;
+
+User : Vannak Date  : Jul  3 2023 11:05AM
+Action : Cash jam on reject box at Phsar Chas Branch;
+
+User : Than Rothana Date  : Jul  3 2023 10:24AM
+Action : error cash jam on reject box;
+
+User : Srey Khuoch Date  : Jul  3 2023 10:20AM
+Action : error Cash jam on reject Box;",Dispenser
+050723/10,AMKATM91,DN 200V,ANSVSR-C001,CRM,7/5/2023 10:54,Error dispenser,7/5/2023 11:50,Yes,error dispenser,"User : Srey Khuoch Date  : Jul  5 2023 10:10PM
+Action :  ;
+
+User : Chim Valid Date  : Jul  5 2023 12:02PM
+Action : To checked CRM error dispenser at Veng Sreng Branch. Checked device and print counter. Try to log on cassette still unknown. Removed out cassette and checked all cassettes are OK. Returned back cassette into dispenser but still not working. Process Bank to load new cash and then when process load new cash CRM is working as normal. Bank load cash and tested transactions is completed. Now CRM is working as normal.;
+
+User : Chim Valid Date  : Jul  5 2023 11:37AM
+Action : To checked CRM error dispenser;
+
+User : Touch Jack Date  : Jul  5 2023 11:34AM
+Action : Error dispenser;
+
+User : Touch Jack Date  : Jul  5 2023 11:11AM
+Action : Error dispenser ;
+
+User : Srey Khuoch Date  : Jul  5 2023 10:58AM
+Action : error dispenser;",Dispenser
+110723/13,AMKATM91,DN 200V,ANSVSR-C001,CRM,7/11/2023 9:00,Receipt jam,7/11/2023 11:50,No,Error receipt printer,"User : Seth Date  : Aug  1 2023  9:23AM
+Action : To check receipt printer error
+
+-Checked on receipt printer header and adjust it to the position.
+
+_Checked on receipt printer and tested many times seen ok.
+
+_Branch load cash and perform transaction seen receipt print out normal.
+
+_Now CRM is working as normal.;
+
+User : Seth Date  : Aug  1 2023  9:22AM
+Action : To check receipt printer error
+
+-Checked on receipt printer header and adjust it to the position.
+
+_Checked on receipt printer and tested many times seen ok.
+
+_Branch load cash and perform transaction seen receipt print out normal.
+
+_Now CRM is working as normal.;
+
+User : Deam1 Date  : Jul 11 2023  9:52AM
+Action : assign;
+
+User : Seth Date  : Jul 11 2023  9:08AM
+Action : Error receipt printer;",Recipt printer
+110723/14,AMKATM53,DN 100D,ASNTAN1-A001,ATM,7/11/2023 9:51,Cash Jam,7/11/2023 14:01,Yes,Error cash jam on exit sensor,"User : Seth Date  : Jul 31 2023  4:39PM
+Action : -Remove money out
+
+-check timing belt, feed wheel, striper wheel, take away and check size cassette
+
+- check notes inside cassette
+
+- replace feed wheel on slot 4 (50K)
+
+- after load cash test many transactions is ok;
+
+User : Bunseang Date  : Jul 11 2023 12:17PM
+Action : ATM error cash jam on exit sensor;
+
+User : Deam1 Date  : Jul 11 2023 10:01AM
+Action : assign engineer;
+
+User : Seth Date  : Jul 11 2023  9:55AM
+Action : Cash jam on exit sensor;",Dispenser
+140723/20,TKATM001,DN 100D,TKATM001,ATM,7/14/2023 8:36,Error Cassette,7/14/2023 9:57,No,Reject box Error,"User : Srey Khuoch Date  : Jul 14 2023  4:52PM
+Action :   ;
+
+User : Sothira Date  : Jul 14 2023  9:57AM
+Action : Wing TK;
+
+User : Sothira Date  : Jul 14 2023  9:55AM
+Action : Reject box error;
+
+User : Sopheak Sovatdy Date  : Jul 14 2023  8:44AM
+Action : Reject box error;
+
+User : Srey Khuoch Date  : Jul 14 2023  8:41AM
+Action : Reject box Error;",Dispenser
+170723/21,AMKATM71,DN 100D,SRPNMK-A001,ATM,7/17/2023 13:47,PC Error,7/17/2023 16:00,Yes,error device disconnect,"User : Srey Khuoch Date  : Jul 18 2023  8:26AM
+Action :   ;
+
+User : Vannak Date  : Jul 17 2023  5:18PM
+Action : Go to fix ATM at SiemReap Night market print counter check devices ok power off ATM check power supply and FIL hardware of power supply it working not smooth replaced new power supply power on ATM check and test devices ok bank tested transaction successfully Note: temperature in side ATM like 40c Booth required fan to reduce the temperature from ATM SN54BL400038 Old SN54B0422501 New;
+
+User : Vannak Date  : Jul 17 2023  3:51PM
+Action : Error devices disconnect;
+
+User : Than Rothana Date  : Jul 17 2023  1:59PM
+Action : Device disconnect;
+
+User : Srey Khuoch Date  : Jul 17 2023  1:52PM
+Action : error device disconnect;",Other
+200723/27,AMKATM91,DN 200V,ANSVSR-C001,CRM,7/20/2023 14:37,Camera Error,7/20/2023 16:30,No,error camera portrait,"User : Srey Khuoch Date  : Jul 20 2023  5:03PM
+Action :   ;
+
+User : Vannak Date  : Jul 20 2023  4:30PM
+Action : Go to fix CRM Error Camera Portrait at Veng Sreng Print counter and checked devices Camera status camera is connected and switched off login admin changed fascia away on false to true Restart CRM mapping camera and tested transaction successfully;
+
+User : Vannak Date  : Jul 20 2023  3:55PM
+Action : Error Camera Portrait;
+
+User : Than Rothana Date  : Jul 20 2023  2:44PM
+Action : CRM error Camera Portrait;
+
+User : Srey Khuoch Date  : Jul 20 2023  2:40PM
+Action : error camera portrait;",Camera
+210723/28,AMKATM27,DN 200V,PNPBBU-C001,CRM,7/21/2023 14:37,Camera Error,7/21/2023 15:41,No,error camera cash slot,"User : Srey Khuoch Date  : Jul 25 2023  8:32AM
+Action :  ;
+
+User : Sothira Date  : Jul 21 2023  3:42PM
+Action : Purpose to checked camera cash slot error not capture. Action checked devices seen camera error. Shutdown CRM and unplugged USB. Plugged in USB back. Power on CRM and checked devices status are OK. Bank perform transaction and checked camera cash slot is captured. Now CRM is working as normal;
+
+User : Sothira Date  : Jul 21 2023  3:23PM
+Action : To checked camera cash slot error;
+
+User : Touch Jack Date  : Jul 21 2023  2:44PM
+Action : Error camera cash slot (RSK);
+
+User : Srey Khuoch Date  : Jul 21 2023  2:40PM
+Action : error camera cash slot;",Camera
+250723/30,AMKATM65,DN 100D,PUKPUK-A001,ATM,7/25/2023 8:54,EPP Error,7/25/2023 9:43,No,error EPP,"User : Srey Khuoch Date  : Jul 25 2023  2:14PM
+Action :   ;
+
+User : Sothearith Date  : Jul 25 2023  9:58AM
+Action : Printer counter checked all devices and used crypta to check key test from Key1 to 9 0 down up Enter Clear cancel tab found key 9 not working then shutdown ATM and removed EPP belong to AMK out SN INTASA1C20002628 and replaced new EPP SN INTASA1C20001364 then turn on ATM checked all devices and load new master keys used crypta again to confirm all keys are working as normal last initialize EPP now EPP is working as normal;
+
+User : Sothearith Date  : Jul 25 2023  9:40AM
+Action : To fix EPP error for AMK at Pouk branch;
+
+User : Chean Sovanarath Date  : Jul 25 2023  9:23AM
+Action : error EPP (Puok );
+
+User : Srey Khuoch Date  : Jul 25 2023  8:55AM
+Action : error EPP;",EPP
+270723/32,AMKDC03,DC365,PTT Prek Phnov,DC365,7/27/2023 8:31,LCD screen issue,7/27/2023 11:40,Yes,touch screen issue,"User : Srey Khuoch Date  : Jul 27 2023 11:52AM
+Action :  ;
+
+User : SOY Date  : Jul 27 2023 11:47AM
+Action : check all device then change Android mainboard  now machine on service;
+
+User : SOY Date  : Jul 27 2023 11:38AM
+Action : accept;
+
+User : BTI_Botin Date  : Jul 27 2023 11:30AM
+Action : assign;
+
+User : Srey Khuoch Date  : Jul 27 2023  8:34AM
+Action : touch screen issue;",Other
+270723/34,AMKATM62,DN 100D,PNPBKM-A001,ATM,7/27/2023 10:25,Safe door,7/27/2023 10:52,No,unable to open operator door,"User : Srey Khuoch Date  : Jul 27 2023  2:50PM
+Action :  ;
+
+User : Bunseang Date  : Jul 27 2023 10:53AM
+Action : To check ATM unable open operator door at Touk Kork Branch. Check key and try to open operator door. Can not open. Check on lock seem lock has lost from lock holder. Try to pick up wire lock in ATM. Can pick and open operator door. Put lock on lock holder and tested open and close operator door many time. Okay. Now ATM is working normal.;
+
+User : Bunseang Date  : Jul 27 2023 10:44AM
+Action : unable to open operator door;
+
+User : Chean Sovanarath Date  : Jul 27 2023 10:42AM
+Action : Unable to open operator door ;
+
+User : Srey Khuoch Date  : Jul 27 2023 10:26AM
+Action : unable to open operator door;",Door Issue
+280723/37,WPCRM001,DN 200V,WPCRM001,CRM,7/28/2023 9:51,Error dispenser,7/28/2023 11:38,Yes,Dispense test fail,"User : Srey Khuoch Date  : Jul 28 2023  2:31PM
+Action :   ;
+
+User : Sothira Date  : Jul 28 2023 11:38AM
+Action : To checked CRM dispense test error at Wat Phnom Branch checked devices status found cash jam on head middle transport and escrow. Removed cash from escrow and head middle transport. Inserted cassette and reset device. Checked device status are OK. Bank loaded cash and dispense test completed. Now CRM is working as normal.;
+
+User : Sothira Date  : Jul 28 2023 10:35AM
+Action : To checked CRM error dispense;
+
+User : Sopheak Sovatdy Date  : Jul 28 2023 10:05AM
+Action : Dispense test fail;
+
+User : Srey Khuoch Date  : Jul 28 2023 10:01AM
+Action : Dispense test fail;",Dispenser
+290723/38,AMKATM65,DN 100D,PUKPUK-A001,ATM,7/29/2023 13:25,Card Reader Error,7/29/2023 15:33,Yes,Error card reader,"User : Srey Khuoch Date  : Jul 31 2023  8:46AM
+Action :  ;
+
+User : Sothearith Date  : Jul 29 2023  3:44PM
+Action : Printed counter and checked all devices found card reader error used cleaning to clean card reader then test card reader by inserting card into card reader to make sure its read or not but status blank then shutdown ATM remove Card reader belonging to AMK out SN00G0035094 and replaced new card reader SN00G1020341 turn on ATM and checked devices again status ok test card by inserting card reader status show read all track successfully and exited  from TSOP ATM online let bank do transaction many time successfully now ATM is working as normal;
+
+User : Sothearith Date  : Jul 29 2023  3:30PM
+Action : to check ATM error card reader for AMK at Pouk Branch;
+
+User : Than Rothana Date  : Jul 29 2023  1:38PM
+Action : Card reader error;
+
+User : Srey Khuoch Date  : Jul 29 2023  1:31PM
+Action : Error card reader;",Card reader
+310723/39,AMKATM54,DN 100D,ASNASN-A001,ATM,7/31/2023 10:13,Camera Error,7/31/2023 11:04,No,error camera,"User : Srey Khuoch Date  : Jul 31 2023  4:57PM
+Action :   ;
+
+User : Vannak Date  : Jul 31 2023 11:05AM
+Action : Go to fix ATM Error Camera Portrait at Angsnoul Print counter Check devices Camera Ok but Camera not Captured Shutdown machine replaced new camera power on ATM check camera and mapping camera done tested transaction successfully;
+
+User : Vannak Date  : Jul 31 2023 10:48AM
+Action : Error Camera;
+
+User : Chean Sovanarath Date  : Jul 31 2023 10:17AM
+Action : error camera;
+
+User : Srey Khuoch Date  : Jul 31 2023 10:15AM
+Action : error camera;",Camera
+230623/73,CCM1280004,DC365,CCM1280004,DC365,6/23/2023 10:39,cash surplus and shortage,8/9/2023 8:45,No,Deposit Decline 20000KHR not credit to Tenant ACC,"User : Seth Date  : Aug  9 2023  8:45AM
+Action : Apply new apk hc v1.4.3;",Dispenser
+230623/74,CCM1280005,DC365,CCM1280005,DC365,6/23/2023 10:45,cash surplus and shortage,8/9/2023 8:47,No,"physical cash have over 10,200 Riel","User : Seth Date  : Aug  9 2023  8:47AM
+Action : apply new apk hc v1.4.3;",Dispenser
+230623/78,CCM1280005,DC365,CCM1280005,DC365,6/23/2023 11:04,Error amount,8/9/2023 8:51,No,Portal show mix deno ( KHR and USD) in both deposit and Clearing Cash in receipt portal,"User : Seth Date  : Aug  9 2023  8:50AM
+Action : apply new apk hc v1.4.3;",Other
+230623/79,CCM1280005,DC365,CCM1280005,DC365,6/23/2023 11:07,DCT error,8/9/2023 8:51,No,Portal show separate counting with the same deno (USD and KHR),"User : Seth Date  : Aug  9 2023  8:50AM
+Action : apply new apk hc v1.4.3;",Dispenser
+040723/7,CCM1280010,DC365,CCM1280010,DC365,7/4/2023 10:49,cash surplus and shortage,8/9/2023 8:49,No,Cash surplus KHR 100K after cash collection,"User : Seth Date  : Aug  9 2023  8:48AM
+Action : apply new apk hc v1.4.3;",Dispenser

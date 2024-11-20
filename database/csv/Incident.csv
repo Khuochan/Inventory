@@ -1,0 +1,751 @@
+Docket No,Diagnosis,Alias ATM ID,ATM ID,Call Date with Time,Completion Date,Down Time,Model,ATM Type,ATM Classification,ATM Down,Action Taken,Sub Call Type
+030124/4,Showing missing cassette 50K on host,NSFCRM01,NSFCRM01,1/3/2024 9:28,1/3/2024 13:20,3:52,DN 200V,CRM,Wing,No,"User : Srey Khuoch Date  : Jan  3 2024  2:35PM
+Action :   ;
+
+User : Sovatdy Date  : Jan  3 2024  2:08PM
+Action : To check CRM showing missing cassette 50K on host. Log in admin and check on blk unit mask to 01011111 and max blk cassettes to 7. Restart machine and check on host. Still missing. Checked on configuration in TSOP and reconfig all cassettes in machine including reject and retract. Recheck all configuration in regedit and stop application. Replace dll file dccinmsg and dccrsta. Restart machine and check on all devices and cassette status again. OK. Asked host team to check on host monitoring. All cassettes showing correctly. Bank load cash and tested transactions. Completed. Now CRM is working normal.;
+
+User : Sovatdy Date  : Jan  3 2024 10:17AM
+Action : Showing missing cassette 50K on host;
+
+User : Sopheak Sovatdy Date  : Jan  3 2024  9:51AM
+Action : Showing missing cassettes 50K on host;
+
+User : Srey Khuoch Date  : Jan  3 2024  9:30AM
+Action : Showing missing cassette 50K on host;
+
+",Error Cassette
+030124/5,Error I/O,TKCRM001,TKCRM001,1/3/2024 15:02,1/3/2024 15:49,0:47,DN 200V,CRM,Wing,No,"User : Srey Khuoch Date  : Jan  4 2024  8:32AM
+Action :   ;
+
+User : Vannak Date  : Jan  3 2024  3:58PM
+Action : Go to check CRM error I/O at TK branch Print counter Check all devices are ok and reset tested devices okay shutdown machine remove out I/O cleaned sensors and rollers returned back I/O to the right position Power machine reset and test all devices are okay Bank test transaction many times successful;
+
+User : Vannak Date  : Jan  3 2024  3:46PM
+Action : CRM error I/O;
+
+User : Than Rothana Date  : Jan  3 2024  3:36PM
+Action : CRM error I/O;
+
+User : Srey Khuoch Date  : Jan  3 2024  3:06PM
+Action : Error I/O;
+
+",Error I/O
+050124/8,Cash surplus 10k,PTT_Klaing Leu,AMKDC04,1/5/2024 8:42,2/28/2024 9:05,1296:23:00,DM 200,DC365,AMK MFI,No,"User : Srey Khuoch Date  : Feb 28 2024  9:07AM
+Action : To solve issue, we have to
+_Adjust gap
+_apply firmware 20231229FW
+_After follow up action, machine works as normal.;
+
+",Cash surplus and shortage
+090124/9,Torn note 10$,PNPBNC-C001,AMKATM33,1/9/2024 8:52,1/9/2024 12:15,3:23,DN 200V,CRM,AMK MFI,No,"User : Srey Khuoch Date  : Jan 10 2024  8:33AM
+Action :   ;
+
+User : Rothana Date  : Jan  9 2024  2:46PM
+Action : going to check CRM got torn note 10$ check and test all devices and cleaned all sensors do sanding CHT on loop back transport completed bank load cash and tested transaction many times seem no torn note anymore now CRM is working as normal;
+
+User : Rothana Date  : Jan  9 2024  2:36PM
+Action : to checked CRM got torn note 10$ at rule University;
+
+User : Sopheak Sovatdy Date  : Jan  9 2024  2:18PM
+Action : Torn note 10$;
+
+User : Srey Khuoch Date  : Jan  9 2024  8:56AM
+Action : Torn note 10$;
+
+",Cash Rejected and Torn
+100124/12,Reject too many note (50K),ASNTAN1-A001,AMKATM53,1/10/2024 8:28,1/10/2024 11:00,2:32,DN 100D,ATM,AMK MFI,No,"User : Srey Khuoch Date  : Jan 11 2024  8:53AM
+Action :   ;
+
+User : Bunseang Date  : Jan 11 2024  8:40AM
+Action : shutdown machine and remove money jam  from picker slot 4 and removed feed wheel spoil clean and replace by new feed wheel power on machine to test devices is ok customers load cash and test transactions is working;
+
+User : Bunseang Date  : Jan 10 2024  9:40AM
+Action : Check ATM reject too many note (50k);
+
+User : Chean Sovanarath Date  : Jan 10 2024  9:21AM
+Action : Reject too many note (50K);
+
+User : Srey Khuoch Date  : Jan 10 2024  8:31AM
+Action : Reject too many note (50K);
+
+",Cash Rejected and Torn
+110124/13,ATM can not withdraw 50K,PNPPNP-A002,AMKATM08,1/11/2024 9:42,1/11/2024 10:20,0:38,DN 100D,ATM,AMK MFI,No,"User : Srey Khuoch Date  : Jan 11 2024  2:14PM
+Action :   ;
+
+User : Rothana Date  : Jan 11 2024 11:10AM
+Action : _Going to check ATM cannot withdraw 50k at hq .check and test devices are OK.power off ATM and check on slot 50k seen feed wheel spoil .changed new feed wheel on slot 50k completed. Power on ATM check and tested device are OK. bank load cash and performance transaction looking smooth .now ATM is working as normal .;
+
+User : Rothana Date  : Jan 11 2024 10:15AM
+Action : atm cannot withdrawal 50k;
+
+User : Chean Sovanarath Date  : Jan 11 2024  9:54AM
+Action : ATM can not withdraw 50K;
+
+User : Srey Khuoch Date  : Jan 11 2024  9:48AM
+Action : ATM can not withdraw 50K;
+
+",Transaction decline
+120124/14,ATM always disconnect device,SRPNMK-A001,AMKATM71,1/12/2024 8:41,1/12/2024 14:24,5:43,DN 100D,ATM,AMK MFI,No,"User : Srey Khuoch Date  : Jan 12 2024  3:41PM
+Action :    ;
+
+User : Sokheng Date  : Jan 12 2024  2:25PM
+Action : Printed counter and checked all devices found cashslot camera epp touch screen not connected,power off ATM and try to tested unplug USB from all devices but still error,replace new FIL and usb for epp touch screen and cashslot camera,power on machine tested all devices are ok,bank do many transaction successfully,now ATM is working as normal;
+
+User : Sokheng Date  : Jan 12 2024  2:23PM
+Action : ATM always disconnected devices (NMK);
+
+User : Than Rothana Date  : Jan 12 2024  9:00AM
+Action : ATM always disconnect devices;
+
+User : Srey Khuoch Date  : Jan 12 2024  8:54AM
+Action : ATM always disconnect device;
+
+",Connection Error
+190124/17,Not accept money both currency,PP-SHV Express way,25312001,1/17/2024 14:00,1/18/2024 10:40,20:40,DM 200,DC365,Phillip Bank,Yes,"User : Srey Khuoch Date  : Jan 19 2024  8:54AM
+Action : To fix this machine, check all device, clean sensor and do CIS calibration, test many times, Now machine is working normal. ;
+
+",Cash Rejected and Torn
+220124/19,Error cannot open baffle door,PTT Seang Nam,AMKDC05,1/21/2024 10:10,1/24/2024 13:15,75:05:00,DM 200,DC365,AMK MFI,Yes,"User : Srey Khuoch Date  : Jan 25 2024 10:06AM
+Action : Here is the activities at PTT Seang Nam
+_fixed escrow arm
+_updated the latest firmware
+_reupdated latest firmware again via USB
+_adjust escrow to make it balance
+_Testing all device is ok 
+_User can perform testing as normal;
+
+",Error baffle door
+230124/20,Cannot close reject box cover,PSZATM01,PSZATM01,1/23/2024 14:06,1/23/2024 15:01,0:55,DN 100D,ATM,Wing,No,"User : Srey Khuoch Date  : Jan 23 2024  5:19PM
+Action :   ;
+
+User : Vannak Date  : Jan 23 2024  3:12PM
+Action : Go to check ATM error Reject box at PPSEZ , Print counter and check devices ok, Check Pin reject box is ok and removed divert retract 2set , bank tested confirm many times working normal;
+
+User : Vannak Date  : Jan 23 2024  2:58PM
+Action : Error Reject box;
+
+User : Chean Sovanarath Date  : Jan 23 2024  2:16PM
+Action : Cannot close reject box cover;
+
+User : Srey Khuoch Date  : Jan 23 2024  2:08PM
+Action : Cannot close reject box cover;
+
+",Error reject box
+270124/27,Rejected many notes,PTT Chbar Obpov,AMKDC01,1/27/2024 8:00,1/27/2024 11:50,3:50,DM 200,DC365,AMK MFI,No,"User : Srey Khuoch Date  : Jan 27 2024 12:01PM
+Action : To check machine rejected many notes
+_Clean dirt and sensor
+_Adjust gap of input tray
+_Do CIS calibration
+_Check all devices status
+_Perform testing
+_Machine accept money as normal;
+
+",Cash Rejected and Torn
+300124/31,CRM reject card,PNPPDK-C001,AMKATM29,1/30/2024 8:48,1/30/2024 9:24,0:36,DN 200V,CRM,AMK MFI,Yes,"User : Srey Khuoch Date  : Jan 30 2024 10:40AM
+Action :   ;
+
+User : Rothana Date  : Jan 30 2024  9:28AM
+Action : _going to check card reader rejact card .power off crm and remove card reader to clean completed.returned back card reader to crm completed.power on crm and clean card reader by cleaning card completed.branch perform transaction many time seen card reader working .now crm is working as normal.;
+
+User : Rothana Date  : Jan 30 2024  9:21AM
+Action : reject card;
+
+User : Chean Sovanarath Date  : Jan 30 2024  9:16AM
+Action : CRM reject card;
+
+User : Yeang Dara Date  : Jan 30 2024  8:53AM
+Action : CRM reject card;
+
+",Card Reader Error
+010224/1,"Cash deposit shortage KHR 10,000",PTT Prek Phnov,AMKDC03,2/1/2024 10:43,2/2/2024 15:09,28:26:00,DM 200,DC365,AMK MFI,No,"User : Srey Khuoch Date  : Feb  2 2024  3:09PM
+Action : After check log file and customer have confirm that he took out the money in the escrow when the machine out of service to deposit again.;
+
+",Cash surplus and shortage
+080224/3,Torn 100$,PUKPUK-A001,AMKATM65,2/8/2024 13:25,2/8/2024 16:06,2:41,DN 100D,ATM,AMK MFI,No,"User : Srey Khuoch Date  : Feb  9 2024  4:19PM
+Action :   ;
+
+User : Vannak Date  : Feb  8 2024  4:31PM
+Action : To check ATM got torn note at Pouk , Print counter and Check for all ATM devices status ok , Shutdown ATM, Remove out feed wheel, Stripper wheel, Take away and Cleaned all devices and  sensors, Check cassette and found out that branch input wrong direction for 100$ and guide branch input note into cassette to the correct direction , put back all devices to the right position, Power on ATM , Check and Test all ATM devices with status ok, Bank load cash and Tested transaction many times successful.;
+
+User : Vannak Date  : Feb  8 2024  4:04PM
+Action : Torn 100$;
+
+User : Vannak Date  : Feb  8 2024  4:02PM
+Action : Note 100$;
+
+User : Than Rothana Date  : Feb  8 2024  2:06PM
+Action : ATM got Torn note 100$;
+
+User : Srey Khuoch Date  : Feb  8 2024  1:26PM
+Action : Torn 100$;
+
+",Cash Rejected and Torn
+120224/7,Torn note 100$,PTT Prek Phnov,AMKDC03,2/12/2024 12:52,2/12/2024 17:13,4:21,DM 200,DC365,AMK MFI,No,"User : Srey Khuoch Date  : Feb 13 2024  8:36AM
+Action :   ;
+
+User : Rothana Date  : Feb 12 2024  5:32PM
+Action : Going check DCM got torn 100 USD.Check and tested perform transaction deposits seen DCM working not smooth.Take off cover off DCM complete.Adjust Gab roller of deposit a bit and check motor off escrow complete.Station test and perform transaction seen working smoothly.Now DCM is working as normal;
+
+User : Rothana Date  : Feb 12 2024  4:53PM
+Action : Torn note 100$;
+
+User : Chean Sovanarath Date  : Feb 12 2024  4:52PM
+Action : Torn note 100$;
+
+User : Piseth Date  : Feb 12 2024 12:56PM
+Action : Torn note 100$;
+
+",Cash Rejected and Torn
+130224/11,ATM always reject card,KOKKOK-A001,AMKATM41,2/13/2024 9:52,2/13/2024 16:46,6:54,DN 100D,ATM,AMK MFI,No,"User : Srey Khuoch Date  : Feb 13 2024  5:17PM
+Action :   ;
+
+User : Sokheng Date  : Feb 13 2024  4:46PM
+Action : Print counter and checked all device are ok but card reader rejected when do transactions Shutdown machine removed out card reader try to cleaned all roller and use cleaning card but still rejected card replace new card reader and tested many transactions are ok now atm is working as normal;
+
+User : Sokheng Date  : Feb 13 2024  4:44PM
+Action : ATM always reject card(Koh kong);
+
+User : Than Rothana Date  : Feb 13 2024  9:55AM
+Action : ATM always reject card ;
+
+User : Srey Khuoch Date  : Feb 13 2024  9:53AM
+Action : ATM always reject card;
+
+",Card Reader Error
+140224/16,Escrow error,PTT Seang Nam,AMKDC05,2/14/2024 8:44,2/14/2024 18:30,9:46,DM 200,DC365,AMK MFI,No,"User : Srey Khuoch Date  : Feb 15 2024  9:33AM
+Action : To check machine out of service
+_Found the screw of escrow loosen
+_Adjust the screw of escrow
+_Adjust the escrow door to make it balance
+_Test deposit many times are ok
+Now machine is working back;
+
+User : Than Rothana Date  : Feb 14 2024  2:14PM
+Action : check DCM error out of service after deposit;
+
+User : Srey Khuoch Date  : Feb 14 2024  8:48AM
+Action : Escrow error;
+
+",Escrow Error
+150224/22,High reject rate,PTT Prek Phnov,AMKDC03,2/15/2024 12:42,2/15/2024 15:00,2:18,DM 200,DC365,AMK MFI,No,"User : Srey Khuoch Date  : Feb 16 2024  8:16AM
+Action :   ;
+
+User : Rothana Date  : Feb 15 2024  3:27PM
+Action : going to check dcm reject higher note 100 usd at prek phnov shout down dcm and prepare tool kit complete adjust gab a bit and test with ptt transaction many time seen dcm accept note normal now dcm is working as normal;
+
+User : Rothana Date  : Feb 15 2024  3:11PM
+Action : High reject rate(PTT perk phnov);
+
+User : Than Rothana Date  : Feb 15 2024  3:04PM
+Action : DCM reject high hote ;
+
+User : Srey Khuoch Date  : Feb 15 2024 12:45PM
+Action : High reject rate;
+
+",Cash Rejected and Torn
+150224/23,Camera not capture,TCATM001,TCATM001,2/15/2024 16:25,2/15/2024 17:07,0:42,DN 100D,ATM,Wing,No,"User : Srey Khuoch Date  : Feb 16 2024  8:17AM
+Action :   ;
+
+User : Sokheng Date  : Feb 15 2024  5:12PM
+Action : Go to check camera error at TC Print counter and check all devices found camera is not present shutdown machine try to unplug usb from both camera reconnected usb to both camera open ATM check camera are ok do many transaction camera is capture as normal now ATM is working;
+
+User : Sokheng Date  : Feb 15 2024  5:05PM
+Action : camera not capture;
+
+User : Nao Bunseang Date  : Feb 15 2024  4:35PM
+Action : Camera error;
+
+User : Srey Khuoch Date  : Feb 15 2024  4:31PM
+Action : Camera not capture;
+
+",Camera Error
+190224/32,Reject note,PP-SHV Express way,25312001,2/19/2024 9:00,2/19/2024 12:30,3:30,DM 200,DC365,Phillip Bank,No,"User : Srey Khuoch Date  : Feb 19 2024  2:36PM
+Action :   ;
+
+User : Chanthorn Date  : Feb 19 2024 12:55PM
+Action : Power off and on machine Testing perform transaction is ok Check all devices status Clean dirt and all sensors Do CIS calibration User perform transaction is ok;
+
+User : Chanthorn Date  : Feb 19 2024 12:40PM
+Action : Cash Rejected;
+
+User : Soy Chanpiseth Date  : Feb 19 2024  9:11AM
+Action : Assign;
+
+User : Srey Khuoch Date  : Feb 19 2024  9:09AM
+Action : Reject note;
+
+User : Srey Khuoch Date  : Feb 19 2024  9:08AM
+Action : PM;
+
+",Cash Rejected and Torn
+230224/45,Cash jam,ASNCPV-C001,AMKATM57,2/23/2024 8:47,2/23/2024 10:00,1:13,DN 200V,CRM,AMK MFI,Yes,"User : Srey Khuoch Date  : Feb 23 2024  5:17PM
+Action :   ;
+
+User : Jack Date  : Feb 23 2024  3:09PM
+Action : Check and test CDM error cash jam on collector, Removed out cash from collector (retract full maximum) and tested all devices are ok, now CDM working as normal.;
+
+User : Jack Date  : Feb 23 2024  1:13PM
+Action : check CDM error cash jam;
+
+User : Than Rothana Date  : Feb 23 2024  8:58AM
+Action : Cash jam ;
+
+User : Srey Khuoch Date  : Feb 23 2024  8:52AM
+Action : Cash jam;
+
+",Cash Jam
+260224/55,Cash jam on escrow,ASNCPV-C001,AMKATM57,2/26/2024 13:13,2/26/2024 15:20,2:07,DN 200V,CRM,AMK MFI,Yes,"User : Srey Khuoch Date  : Feb 26 2024  5:23PM
+Action :    ;
+
+User : Rothana Date  : Feb 26 2024  3:28PM
+Action : go to check crm got cash jam on escrow .shutdown machine crm and removed cash jam from escrow completed. clean roller off cht completed. replace new cht sn 7506897010 old cht 7504824677 to crm done.branch test performance transaction with 100pic note seen working smooth.now crm is working as normal.;
+
+User : Rothana Date  : Feb 26 2024  3:21PM
+Action : cash jam on escrow;
+
+User : Chean Sovanarath Date  : Feb 26 2024  2:51PM
+Action : Cash jam on escrow;
+
+User : Yeang Dara Date  : Feb 26 2024  1:28PM
+Action : Cash jam on escrow;
+
+",Cash Jam
+260224/56,CRM receipt printer error not cut,ANSVSR-C001,AMKATM91,2/26/2024 14:28,2/26/2024 15:20,0:52,DN 200V,CRM,AMK MFI,No,"User : Srey Khuoch Date  : Feb 26 2024  5:25PM
+Action :   ;
+
+User : Channa Date  : Feb 26 2024  3:29PM
+Action : checked receipt printer cannot cut then studown CDM and cleaned receipt printer changed receipt position and the turn on CDM and tested receipt printer and now Receipt printer is working normal.;
+
+User : Channa Date  : Feb 26 2024  3:18PM
+Action : To check receipt printer cannot cut;
+
+User : Chean Sovanarath Date  : Feb 26 2024  2:52PM
+Action : CRM receipt printer error not cut;
+
+User : Piseth Date  : Feb 26 2024  2:30PM
+Action : CRM receipt printer error not cut;
+
+",Receipt printer error
+280224/63,Cash jam on escrow,ASNCPV-C001,AMKATM57,2/28/2024 8:44,2/28/2024 17:26,8:42,DN 200V,CRM,AMK MFI,Yes,"User : Srey Khuoch Date  : Feb 29 2024  8:56AM
+Action :   ;
+
+User : Rothana Date  : Feb 28 2024  5:30PM
+Action : go to check crm got cash jam on escrow. changed new escrow sn 7505494339 old escrow sn 7504827360 to crm completed. test transaction with 100 pis seen crm working smooth .now crm is working back .;
+
+User : Rothana Date  : Feb 28 2024 11:43AM
+Action : crm go cash jam on escrow;
+
+User : Than Rothana Date  : Feb 28 2024 11:02AM
+Action : CRM got cash jam on escrow ;
+
+User : Srey Khuoch Date  : Feb 28 2024 10:45AM
+Action : Cash jam on escrow;
+
+",Cash Jam
+060324/21,Error cassette 4,ASNTAN1-A001,AMKATM53,3/6/2024 14:21,3/6/2024 16:00,1:39,DN 100D,ATM,AMK MFI,No,"User : Srey Khuoch Date  : Mar  6 2024  4:55PM
+Action : machine is down;
+
+User : Rothana Date  : Mar  6 2024  4:48PM
+Action : checked and tested devices seen atm error cassette 4 removed cassette out and modify is OK bank load cash with new cassette and tested performance transaction many times is working smooth now atm is working as normal;
+
+User : Rothana Date  : Mar  6 2024  4:40PM
+Action : Go to checked atm error cassettes 4;
+
+User : Than Rothana Date  : Mar  6 2024  4:38PM
+Action : Error cassette slot 4;
+
+User : Srey Khuoch Date  : Mar  6 2024  2:23PM
+Action : Error cassette 4;
+
+",Error Cassette
+110324/27,Operator door detect open,AE1ATM01,AE1ATM01,3/11/2024 11:20,3/11/2024 14:30,3:10,DN 100D,ATM,Wing,No,"User : Srey Khuoch Date  : Mar 11 2024  4:24PM
+Action : error software ;
+
+User : Sothira Date  : Mar 11 2024  3:08PM
+Action : to check operator door open. check all devices in tsop found all devices are ok and confirm operator door sensor is ok. check connection from host to ATM not smooth. double check with host site connection not smooth. confirm sensor safe door and operator door are ok. Now ATM back work as normal.;
+
+User : Sothira Date  : Mar 11 2024  2:26PM
+Action : Operator door detect open;
+
+User : Sopheak Sovatdy Date  : Mar 11 2024 11:28AM
+Action : Operator door detect open;
+
+User : Srey Khuoch Date  : Mar 11 2024 11:25AM
+Action : Operator door detect open;
+
+",Operator door error
+130324/37,Lose notes after deposit,KPCCRM01,KPCCRM01,3/13/2024 8:09,3/13/2024 15:00,6:51,DN 200V,CRM,Wing,No,"User : Srey Khuoch Date  : Mar 14 2024  8:45AM
+Action :   ;
+
+User : Sovatdy Date  : Mar 13 2024  3:19PM
+Action : To check CRM lose notes after do deposit fail. Open operator door to check all devices. Check all devices to find notes. Saw notes in retract box 42 notes. Guide branch to check on devices when they do the replenishment like Escrow Retract box Collector. Branch remove cassettes. Check and clean all sensor of CRM. Branch return cassettes and do replenishment. Completed. Customer test transaction. Completed. Now CRM is working normal.0;
+
+User : Sovatdy Date  : Mar 13 2024  1:01PM
+Action : Lose note when deposit fail. Wing bank KPC branch;
+
+User : Than Rothana Date  : Mar 13 2024  8:21AM
+Action : lose notes after deposit fail;
+
+User : Srey Khuoch Date  : Mar 13 2024  8:18AM
+Action : Lose notes after deposit;
+
+",Cash surplus and shortage
+190324/56,High reject note,PTT Chbar Obpov,AMKDC01,3/19/2024 8:20,3/19/2024 10:25,2:05,DM 200,DC365,AMK MFI,No,"User : Srey Khuoch Date  : Mar 19 2024  5:04PM
+Action :   ;
+
+User : Sounin Date  : Mar 19 2024 10:30AM
+Action : adjust feed , rubber adjust thickness adjust Gap clean all sensors and calibration CIS and tested many times machine is working normal;
+
+User : Sounin Date  : Mar 19 2024 10:22AM
+Action : high reject note;
+
+User : Chean Sovanarath Date  : Mar 19 2024  8:47AM
+Action : High reject note;
+
+User : Srey Khuoch Date  : Mar 19 2024  8:23AM
+Action : High reject note;
+
+",Cash Rejected and Torn
+190324/63,Error cassette 50k,SSATM001,SSATM001,3/19/2024 13:46,3/19/2024 15:39,1:53,DN 100D,ATM,Wing,No,"User : Srey Khuoch Date  : Mar 19 2024  5:05PM
+Action :   ;
+
+User : Sokheng Date  : Mar 19 2024  3:44PM
+Action : check in cassette found tray wrong position adjust size to 5.6 on slot 50k;
+
+User : Sokheng Date  : Mar 19 2024  3:42PM
+Action : error cassette (ss);
+
+User : Than Rothana Date  : Mar 19 2024  2:51PM
+Action : Cassette error 50K;
+
+User : Srey Khuoch Date  : Mar 19 2024  1:49PM
+Action : Error cassette 50k;
+
+",Error Cassette
+210324/66,Cash broken in reject box,ANSVSR-C001,AMKATM91,3/21/2024 9:46,3/21/2024 12:04,2:18,DN 200V,CRM,AMK MFI,No,"User : Srey Khuoch Date  : Mar 21 2024  2:14PM
+Action :   ;
+
+User : Jack Date  : Mar 21 2024 12:28PM
+Action : Go to check CDM at veng sreng error cash Brocken in reject box, Check hardware and clean all roller, clean sensors and check reject box, and then reset all devices and tested cash many times in reject box cash not Brocken, now CDM is working as normal.;
+
+User : Jack Date  : Mar 21 2024 12:00PM
+Action : To check CDM cash Brocken in reject box;
+
+User : Than Rothana Date  : Mar 21 2024 10:03AM
+Action : Torn note 50k and 100$;
+
+User : Srey Khuoch Date  : Mar 21 2024  9:54AM
+Action : Cash broken in reject box;
+
+",Cash Rejected and Torn
+230324/69,Error motor,PTT Prey Key,AMKDC02,3/23/2024 11:21,3/26/2024 14:21,75:00:00,DM 200,DC365,AMK MFI,Yes,"User : Srey Khuoch Date  : Mar 27 2024  8:41AM
+Action :   ;
+
+User : Jack Date  : Mar 26 2024  3:13PM
+Action : check all part at right hand side, power on and found small driver board broken, replaced new driver board still not working, testing both motor and found escrow motor not working, replaced new escrow motor, power on and testing it work well, ask user to performance transaction, now machine working as normali;
+
+User : Jack Date  : Mar 26 2024  1:54PM
+Action : DC365 error motor;
+
+User : Than Rothana Date  : Mar 25 2024  8:14AM
+Action : error motor DC365;
+
+User : Srey Khuoch Date  : Mar 23 2024 11:24AM
+Action : Error motor;
+
+User : Srey Khuoch Date  : Mar 23 2024 11:23AM
+Action : PM;
+
+",Motor Error
+010424/3,High reject note,PTT Chbar Obpov,AMKDC01,4/1/2024 8:21,4/1/2024 14:41,6:20,DM 200,DC365,AMK MFI,No,"User : Srey Khuoch Date  : Apr  2 2024  8:41AM
+Action :   ;
+
+User : Jack Date  : Apr  1 2024  2:48PM
+Action : Go to check DC365 error high reject note, check hardware and Adjust thickness and gap, calibration sensor, then restart machine and tested many times Successfully, now machine working as normal;
+
+User : Jack Date  : Apr  1 2024  2:38PM
+Action : check DC365 error high reject note;
+
+User : Than Rothana Date  : Apr  1 2024  9:39AM
+Action : Reject high note;
+
+User : Srey Khuoch Date  : Apr  1 2024  8:26AM
+Action : High reject note;
+
+",Cash Rejected and Torn
+050424/12,Error Escrow,PTT Prey Key,AMKDC02,4/5/2024 14:05,4/5/2024 19:08,5:03,DM 200,DC365,AMK MFI,Yes,"User : Srey Khuoch Date  : Apr  6 2024 11:04AM
+Action :   ;
+
+User : Rothana Date  : Apr  5 2024  7:22PM
+Action : going to check dcm got error motor at prey kei.check and tested devices seen motor spoil with board .replace New board two units and motor two units to dcm completed .power on dcm check and tested device are ok .ptt performed transactions seen dcm working smooth .;
+
+User : Rothana Date  : Apr  5 2024  7:08PM
+Action : CDM error motor;
+
+User : Than Rothana Date  : Apr  5 2024  7:04PM
+Action : Check DCM error;
+
+User : Piseth Date  : Apr  5 2024  2:09PM
+Action : Error escrow;
+
+",Escrow Error
+080424/14,Network card error,PRHPRH-A001,AMKATM70,4/8/2024 15:00,4/9/2024 10:05,19:05,DN 100D,ATM,AMK MFI,Yes,"User : Srey Khuoch Date  : Apr  9 2024  2:06PM
+Action :   ;
+
+User : Vannak Date  : Apr  9 2024 10:36AM
+Action : Go to check ATM out of service  at Preah Vihear, Print counter and check all devices are ok, Check network is not work, Replace new cable network and run direct cable from network socket to the network port PC than ATM can go live, Let branch perform tested transaction to confirm is successful and ask CBS team to test remote is working can access to the ATM as normal;
+
+User : Vannak Date  : Apr  9 2024  9:56AM
+Action : Network Card Error;
+
+User : Khen Raksmey Date  : Apr  8 2024  4:28PM
+Action : Network Card Error. ;
+
+User : Srey Khuoch Date  : Apr  8 2024  4:23PM
+Action : Network card error;
+
+User : Srey Khuoch Date  : Apr  8 2024  4:21PM
+Action : PM;
+
+",Network card error
+100424/16,Issue with DX and hang screen,PTT Chbar Obpov,AMKDC01,4/10/2024 8:54,4/10/2024 11:13,2:19,DM 200,DC365,AMK MFI,No,"User : Srey Khuoch Date  : Apr 10 2024  2:10PM
+Action :   ;
+
+User : Sounin Date  : Apr 10 2024 11:18AM
+Action : tested deposits many times got reject alot shutdown machine adjust gap and thickness calibration sensors and cleaned all sensors with installed new apk open machine test deposits many times is good machine working normal;
+
+User : Sounin Date  : Apr 10 2024 11:10AM
+Action : Check issue DX and hang screen;
+
+User : Chean Sovanarath Date  : Apr 10 2024 10:58AM
+Action : Issue with DX and hang screen;
+
+User : Srey Khuoch Date  : Apr 10 2024  8:55AM
+Action : Issue with DX and hang screen;
+
+",Application hang
+170424/17,Card reader fatal,WPCRM001,WPCRM001,4/17/2024 8:32,4/17/2024 14:17,5:45,DN 200V,CRM,Wing,No,"User : Srey Khuoch Date  : Apr 18 2024  9:19AM
+Action : machine is down;
+
+User : Sothira Date  : Apr 17 2024  4:43PM
+Action : To check card reader error. Shutdown machine CRM and removed out cardreader. Cleaned all card reader part and install all part and device to the right position. Turn on machine CRM. cleaned card reader with cleaning card and reset device. Bank test transaction completed. Now CRM Back working as normal.;
+
+User : Sothira Date  : Apr 17 2024  2:12PM
+Action : Check card reader error;
+
+User : Chean Sovanarath Date  : Apr 17 2024 12:25PM
+Action : CRM error card reader ;
+
+User : Piseth Date  : Apr 17 2024 12:22PM
+Action : Card reader error
+;
+
+User : Chean Sovanarath Date  : Apr 17 2024  8:46AM
+Action : CRM error receipt printer fatal;
+
+User : Piseth Date  : Apr 17 2024  8:35AM
+Action : CRM error receipt printer fatal;
+
+",Card Reader Error
+180424/18,Can not reset combination password,MKPMKP-A001,AMKATM25,4/18/2024 10:07,4/18/2024 11:36,1:29,DN 100D,ATM,AMK MFI,No,"User : Srey Khuoch Date  : Apr 18 2024  2:28PM
+Action :    ;
+
+User : Srey Khuoch Date  : Apr 18 2024  2:28PM
+Action :    ;
+
+User : Vannak Date  : Apr 18 2024 11:38AM
+Action : Go to check ATM can not reset combination password at Muk kampol, reset password combination to default password, branch set new password and tested open combination password many time is working as normal.;
+
+User : Vannak Date  : Apr 18 2024 11:22AM
+Action : ATM can not reset combination password;
+
+User : Sopheak Sovatdy Date  : Apr 18 2024 10:11AM
+Action : Cant reset combination password;
+
+User : Srey Khuoch Date  : Apr 18 2024 10:09AM
+Action : Can not reset combination password;
+
+",Error password of combination
+190424/19,Cash damage at reject box,PNPCKD-C001,AMKATM42,4/19/2024 8:26,4/19/2024 10:40,2:14,DN 200V,CRM,AMK MFI,No,"User : Srey Khuoch Date  : Apr 19 2024  4:57PM
+Action :   ;
+
+User : Sounin Date  : Apr 19 2024 11:03AM
+Action : Go to check CRM cash damage at reject box at CDK , Print counter and check all devices ok, shutdown machine cleaned rollers check cassette and removed out CHT, sanding CHT and return back CHT to machine, power on Machine, check and tested devices ok, branch load cash and test cash ,check cassette reject not torn note, bank test transaction many times cash not damaged.;
+
+User : Sounin Date  : Apr 19 2024 10:36AM
+Action : Cash rejected and torn;
+
+User : Than Rothana Date  : Apr 19 2024 10:31AM
+Action : CDM got torn note in reject box;
+
+User : Srey Khuoch Date  : Apr 19 2024  8:29AM
+Action : Cash damage at reject box;
+
+",Cash Rejected and Torn
+220424/20,machine cannot make transaction and cash always jam,PTT Chbar Obpov,AMKDC01,4/22/2024 9:54,4/22/2024 10:48,0:54,DM 200,DC365,AMK MFI,Yes,"User : Srey Khuoch Date  : Apr 23 2024 10:29AM
+Action :   ;
+
+User : Sounin Date  : Apr 22 2024 10:51AM
+Action : Do transactions cash always checked and found Flatbelt untied turn off machine and replaced new flatbelt checked and confirm another belts are ok turn on machine back and tested many transactions successfully.;
+
+User : Sounin Date  : Apr 22 2024 10:43AM
+Action : Check cash jam;
+
+User : Than Rothana Date  : Apr 22 2024 10:08AM
+Action : error;
+
+User : Piseth Date  : Apr 22 2024  9:58AM
+Action : machine cannot make transaction and cash always jam;
+
+",Cash Rejected and Torn
+220424/21,Cash in and cash out error,WBTCRM01,WBTCRM01,4/22/2024 14:18,4/23/2024 14:50,24:32:00,DN 200V,CRM,Wing,Yes,"User : Srey Khuoch Date  : Apr 24 2024 10:23AM
+Action : Check on upper head unit found cash jam 100Kand 20K 1pcs in collector, remove out cash jammed, clean all sensor on upper unit, turn on machine check all devices and reset,got error fatal cash in, test transaction can withdraw but cannot deposit, request branch to open safedoor to check cassette but not available, 23 Apr check on lower unit seem devices are ok, removed out cassette, replace with other set of recycling, deposit cassette, reset device upper lower module error was clear;
+
+User : Sokheng Date  : Apr 23 2024  3:09PM
+Action : print counter and checked all devices found hardware error(cash in and cash out) shut down machines checked on head upper unit found money jam in collecter removed out money and cleaned all sensor opened CRM checked all devices are ok Bank tested many transaction are ok now CRM is working as normal;
+
+User : Sokheng Date  : Apr 23 2024  2:53PM
+Action : Cash in and cash out error (tower);
+
+User : Than Rothana Date  : Apr 22 2024  2:25PM
+Action : Cash in / out error;
+
+User : Srey Khuoch Date  : Apr 22 2024  2:22PM
+Action : Cash in and cash out error;
+
+",Cash Jam
+260424/24,Cash jam,ASNTAN1-A001,AMKATM53,4/26/2024 9:23,4/26/2024 12:10,2:47,DN 100D,ATM,AMK MFI,No,"User : Srey Khuoch Date  : Apr 27 2024  8:51AM
+Action :   ;
+
+User : Bunseang Date  : Apr 26 2024 12:10PM
+Action : print Counter and And Checked devices found cash Jam Power Off Machines And Removed Cash Jam Check hardware feed wheel stripper wheel take away and blet are ok checked money in cassette 50k Power on machine login to TSOP checked devices reset devices is OK customer load new cash and test many transaction are ok;
+
+User : Bunseang Date  : Apr 26 2024 11:39AM
+Action : Cach jam;
+
+User : Than Rothana Date  : Apr 26 2024 10:05AM
+Action : Cash jam;
+
+User : Srey Khuoch Date  : Apr 26 2024  9:26AM
+Action : Cash jam;
+
+",Cash Jam
+290424/26,Reject card,PUKPUK-A001,AMKATM65,4/29/2024 14:08,4/30/2024 11:26,21:18,DN 100D,ATM,AMK MFI,Yes,"User : Srey Khuoch Date  : Apr 30 2024  2:13PM
+Action : Replace new card reader;
+
+User : Vannak Date  : Apr 30 2024 11:34AM
+Action : Purpose to check ATM error unable to perform transaction always reject card and jam card at Pouk Branch , Try to test transaction with a few difference card before action check on the card reader but the transaction fail still facing same issue. Than print counter and check card reader status ok , shutdown machine removed card reader clean rollers shutter belt and using cleaning card to clean , Returned back card reader to the right position and power on Machine than check and test reset devices are ok , Let branch tested transaction still card jam, Shutdown machine replace new card reader ,Power on Machine check and test device ok than let branch tested transaction many times with some  cards difference all  working fine, Old sn N00G1020341, New sn N00G312029;
+
+User : Vannak Date  : Apr 30 2024 11:02AM
+Action : Reject Card;
+
+User : Chean Sovanarath Date  : Apr 30 2024 10:59AM
+Action : Reject card;
+
+User : Srey Khuoch Date  : Apr 29 2024  2:10PM
+Action : Reject card;
+
+",Reject Card
+300424/27,Camera issue,TCATM001,TCATM001,4/30/2024 12:39,4/30/2024 17:10,4:31,DN 100D,ATM,Wing,No,"User : Srey Khuoch Date  : May  2 2024  9:04AM
+Action :   ;
+
+User : Udom Date  : Apr 30 2024  5:14PM
+Action : To check the portrait camera error. Check the device in TSOP seems error portrait camera is not present .login administration and change the setting registry fascia.framerate 5 to 4 and portrai.framerate 5 to 4. Restart the ATM and then check the device again is ok. Banks perform transactions  and check  images not captured. Change new camera portrait. Banks perform transactions again and check images confirm are captured normally. New camera S/N WDBWH261090, Old camera S/N WD8UK260505;
+
+User : Udom Date  : Apr 30 2024  2:51PM
+Action : Check camera issues at TC Branch;
+
+User : Chean Sovanarath Date  : Apr 30 2024  1:48PM
+Action : Camera issue;
+
+User : Srey Khuoch Date  : Apr 30 2024 12:40PM
+Action : Camera issue;
+
+",Camera Issue
+300424/28,High reject note,PTT Prey Key,AMKDC02,4/30/2024 12:57,4/30/2024 16:00,3:03,DM 200,DC365,AMK MFI,No,"User : Srey Khuoch Date  : May  2 2024  9:05AM
+Action :   ;
+
+User : Rothana Date  : Apr 30 2024  5:13PM
+Action : go to check DCM cannot perform transaction at PTT prey key, calibration sensor CIS on DCM and clean all roller with sensor completed, try tested note with CIS tool seen DCM accepted note normal, power on CDM and PTT tested transaction many note seem DCM is working  smoothly, now CDM is working back;
+
+User : Rothana Date  : Apr 30 2024  4:39PM
+Action : DCM error at prey key;
+
+User : Deam1 Date  : Apr 30 2024  4:28PM
+Action : Assign engineer;
+
+User : Piseth Date  : Apr 30 2024  1:01PM
+Action : High reject note;
+
+",Cash Rejected and Torn
+060524/3,Cassettes 20K KHR error,KHKCRM01,KHKCRM01,5/6/2024 8:00,5/6/2024 17:17,9:17,DN 200V,CRM,Wing,No,"User : Srey Khuoch Date  : May  7 2024  9:41AM
+Action :   ;
+
+User : Sopheap Date  : May  6 2024  5:22PM
+Action : Check cassette saw error slot3 (20K) than try to reset but still error, I had replaced new cassette and  checked, tested cassette is ok, perform bank load new cash and tested transaction is completed Not: old Cash S/NJ910009396New Cash S/N 7503982063;
+
+User : Sopheap Date  : May  6 2024  5:13PM
+Action : To check Cassettes 20K KHR error;
+
+User : Sopheap Date  : May  6 2024  5:12PM
+Action : To check Cassettes 20K KHR errorat Koh Kong Branch;
+
+User : Sopheap Date  : May  6 2024  5:11PM
+Action : To check Cassettes 20K KHR error at Koh Kong Branch;
+
+User : Sopheak Sovatdy Date  : May  6 2024  8:41AM
+Action : Cassettes 20K KHR error;
+
+User : Srey Khuoch Date  : May  6 2024  8:32AM
+Action : Error cassette 3;
+
+",Error Cassette
+070524/10,Broke lock front door,PTT Prey Sar,AMKDC12,5/7/2024 11:15,5/7/2024 17:51,6:36,DM 200,DC365,AMK MFI,No,"User : Srey Khuoch Date  : May  8 2024  8:56AM
+Action :    ;
+
+User : Jack Date  : May  7 2024  5:59PM
+Action : To changed new lock front door, removed out old lock from front door, Installed new lock to front door, testing many times successfully, now lock front door working back normal;
+
+User : Jack Date  : May  7 2024  5:48PM
+Action : Broke lock front door;
+
+User : Than Rothana Date  : May  7 2024  5:22PM
+Action : Error front door;
+
+User : Srey Khuoch Date  : May  7 2024 11:19AM
+Action : Broke key of cover door;
+
+",Lock front door
+080524/11,Cash bag tight to insert,PTT Chbar Obpov,AMKDC01,5/8/2024 8:33,5/8/2024 10:53,2:20,DM 200,DC365,AMK MFI,No,"User : Srey Khuoch Date  : May  8 2024 11:38AM
+Action :   ;
+
+User : Sounin Date  : May  8 2024 10:53AM
+Action : to check cash bag tight to insert test and take out guide rail of cash bag to swap left and right but still tight take out guide rail again to drill repair thin thickness and returned guide rail back test put in cash bag working smooth thank;
+
+User : Sounin Date  : May  8 2024 10:31AM
+Action : Cash bag tight to insert;
+
+User : Chean Sovanarath Date  : May  8 2024 10:30AM
+Action : Cash bag tight to insert;
+
+User : Srey Khuoch Date  : May  8 2024  8:39AM
+Action : Cash bag tight to insert;
+
+",Cash bag
+100524/18,Reject note 50K,BMCBMC-A001,AMKATM15,5/10/2024 8:13,5/10/2024 10:13,2:00,DN 100D,ATM,AMK MFI,No,"User : Srey Khuoch Date  : May 10 2024  2:10PM
+Action :   ;
+
+User : Jack Date  : May 10 2024 10:15AM
+Action : Check and testing all devices dispenser, slot4 (50K) feed wheel and stripper wheel are broken, removed out old feed wheel and removed old stripper wheel, Replaced new feed wheel and stripper wheel, checked and testing again, reset dispenser devices are ok, bank loaded cash and testing transaction many times successfully;
+
+User : Jack Date  : May 10 2024  9:57AM
+Action : To check ATM cash reject note 50K;
+
+User : Than Rothana Date  : May 10 2024  8:28AM
+Action : ATM got error cassette reject 50k note;
+
+User : Srey Khuoch Date  : May 10 2024  8:15AM
+Action : Reject note 50K;
+
+",Cash Rejected and Torn
